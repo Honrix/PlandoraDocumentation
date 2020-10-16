@@ -8,8 +8,8 @@
     - [2.1 Project Vision](#21-project-vision)
     - [2.2 Use Case Diagram](#22-use-case-diagram)
     - [2.3 Product perspective](#23-product-perspective)
-    - [2.4 User characteristics](#24-user-characteristics)
-    - [2.5 Dependencies](#25-dependencies)
+        - [2.3.1 User characteristics](#231-user-characteristics)
+        - [2.3.2 Dependencies](#232-dependencies)
 - [3. Specific Requirements](#3-specific-requirements)
     - [3.1 Functionality](#31-functionality)
         - [3.1.1 Create account](#311-create-account)
@@ -54,7 +54,24 @@ This document gives a general overview of the project Plandora. It contains impo
 ### 1.2 Scope
 Plandora is an Android app which allows its users to save important events in their private environment such as birthdays and anniversaries and offers the functionality to manage their gift ideas. The software specifications described in this document outline the development process of the application.
 ### 1.3 Definitions, Acronyms and Abbreviations
+| Definition    | Description                                        |
+| ------------- |--------------------------------------------------  |
+| Firebase      | Platform for app development offered by Google     |
+| YouTrack      | Tool for project management developed by JetBrains |
+
+| Abbreviation  | Explanation                         |
+| ------------- |-----------------------------------  |
+| SRS           | Software Requirements Specification |
+| UCD           | Use Case Diagram                    |
+| SDK           | Software Development Kit            |
+| VCS           | Version Control System              |
+| MVC           | Model View Controller               |
 ### 1.4 References
+- [Blog](https://plandora51897980.wordpress.com/blog/)
+- [GitHub](https://github.com/nf3lix/Plandora)
+- [YouTrack Scrum Board](https://dhbw-karlsruhe.myjetbrains.com/youtrack/agiles/108-76/109-278)
+- [YouTrack Epic Board](https://dhbw-karlsruhe.myjetbrains.com/youtrack/agiles/108-97/109-304)
+- [UCD](https://github.com/Honrix/PlandoraDocumentation/)
 ### 1.5 Overview
 The following chapter contains our project vision and points out important use cases from the perspective of potential users. Moreover, the single requirements are explained in more detail. 
 ## 2. Overall Description
@@ -62,9 +79,13 @@ The following chapter contains our project vision and points out important use c
 By creating the Android app Plandora, we want to enable our users to save the dates of birthdays, anniversaries and other private events. By entering annual or one-time events the users will be remembered in time and can conveniently access them from their smartphone. In this way, we want to prevent our users from missing important events and having unpleasant situations. Moreover, collecting ideas for a gift or discussing them with friends who use the app are desirable features. [Read more about our vision](https://plandora51897980.wordpress.com/2020/09/29/example-post-3/).
 ### 2.2 Use Case Diagram
 ### 2.3 Product perspective
-### 2.4 User characteristics
-### 2.5 Dependencies
-
+#### 2.3.1 User characteristics
+Potential users are all people being in possession of an Android smartphone, especially those who tend to forget important days or just want to remember their gift ideas they have had.
+#### 2.3.2 Dependencies
+The most significant dependency is Firebase. It is  used for user management and the storage of data. 
+Needed SDKs:
+- Firebase SDK
+- Firestore SDK
 ## 3. Specific Requirements
 ### 3.1 Functionality
 #### 3.1.1 Create account
@@ -101,19 +122,34 @@ The app includes a settings menu in which some user appearances can be configure
 The user gets a notification a couple of days before each events
 ### 3.3 Reliability
 #### 3.3.1 Publishing of Updates
+tbd
 #### 3.3.2 Availability
+tbd
 ### 3.4 Performance
+tbd
 ### 3.5 Supportability
+tbd
 ### 3.6 Design Constraints
+tbd
 ### 3.7 Online User Documentation and Help System Requirements
+tbd
 ### 3.8 Purchased Components
+tbd
 ### 3.9 Interfaces
 #### 3.9.1 User Interfaces
+tbd
 #### 3.9.2 Hardware Interfaces
+tbd
 #### 3.9.3 Software Interfaces
+tbd
 #### 3.9.4 Communications Interfaces
+tbd
 ### 3.10 Licensing Requirements
+tbd
 ### 3.11 Legal, Copyright and other Notices
+tbd
 ### 3.12 Applicable Standards
+tbd
 
 ## 4. Supporting Information
+tbd
