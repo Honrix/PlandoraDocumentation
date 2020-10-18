@@ -13,17 +13,16 @@
 - [3. Specific Requirements](#3-specific-requirements)
     - [3.1 Functionality](#31-functionality)
         - [3.1.1 Create account](#311-create-account)
-        - [3.1.2 Login to account](#312-login-to-account)
-        - [3.1.3 Logout](#313-logout)
-        - [3.1.4 Edit account properties](#314-edit-account-properties)
-        - [3.1.5 Save new events](#315-save-new-events)
-        - [3.1.6 Save gift ideas in an event](#316-save-gift-ideas-in-an-event)
-        - [3.1.7 Invite users to gift planning](#317-invite-users-to-gift-planning)
-        - [3.1.8 View events in dashboard](#318-view-events-in-dashboard)
-        - [3.1.9 View event details](#319-view-event-details)
-        - [3.1.10 View invitations](#3110-view-invitations)
-        - [3.1.11 Categorize Events](#3111-categorize-events)
-        - [3.1.12 Discuss Gift Ideas](#3112-discuss-gift-ideas)
+        - [3.1.2 Login and logout](#312-login-and-logout)
+        - [3.1.3 Edit account properties](#313-edit-account-properties)
+        - [3.1.4 Save new events](#314-save-new-events)
+        - [3.1.5 Save gift ideas in an event](#315-save-gift-ideas-in-an-event)
+        - [3.1.6 Invite users to gift planning](#316-invite-users-to-gift-planning)
+        - [3.1.7 View events in dashboard](#317-view-events-in-dashboard)
+        - [3.1.8 View event details](#318-view-event-details)
+        - [3.1.9 View invitations](#319-view-invitations)
+        - [3.1.10 Categorize Events](#3110-categorize-events)
+        - [3.1.11 Discuss Gift Ideas](#3111-discuss-gift-ideas)
     - [3.2 Usability](#32-usability)
       - [3.2.1 Remember a user on a device](#321-remember-a-user-on-a-device)
       - [3.2.2 Filter events](#322-filter-events)
@@ -92,26 +91,25 @@ Needed SDKs:
 ### 3.1 Functionality
 #### 3.1.1 Create account
 The user is asked to create an account by entering an email address, a unique username, a display name and a password.
-#### 3.1.2 Login to account
+#### 3.1.2 Login an logout
 The user is able sign in with his email address and password. 
-#### 3.1.3 Logout
-#### 3.1.4 Edit account properties
+#### 3.1.3 Edit account properties
 The user is able to change his display name and password on a separate screen in the app. 
-#### 3.1.5 Save new events
+#### 3.1.4 Save new events
 In the main activity, the user is able to create a new event (one-time or annual) under specification of the date, a description and the type of the event (birthday, anniversary, …).
-#### 3.1.6 Save gift ideas in an event
+#### 3.1.5 Save gift ideas in an event
 The user is able to save gift ideas for a specific event. 
-#### 3.1.7 Invite users to gift planning
+#### 3.1.6 Invite users to gift planning
 To plan a gift with others, an event can be shared under specification of the email address or the unique user name of the attendees.
-#### 3.1.8 View events in dashboard
+#### 3.1.7 View events in dashboard
 The main activity contains an overview (dashboard) which displays upcoming events (ascending sorted by remaining days).
-#### 3.1.9 View event details
+#### 3.1.8 View event details
 The user is able to see the provided details on an event by tapping on an event in the dashboard.
-#### 3.1.10 View invitations
+#### 3.1.9 View invitations
 A separate view shows the pending invitations to gift plannings.
-#### 3.1.11 Categorize Events
+#### 3.1.10 Categorize Events
 _Optional feature_: the user can create custom categories (e.g. “family”, “friends”, “important”, …) which can be applied to events
-#### 3.1.12 Discuss Gift Ideas
+#### 3.1.11 Discuss Gift Ideas
 _Optional feature_: shared events offer a chat room in which the 
 ### 3.2 Usability
 #### 3.2.1 Remember a user on a device
