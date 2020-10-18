@@ -91,7 +91,7 @@ Needed SDKs:
 ### 3.1 Functionality
 #### 3.1.1 Create account
 The user is asked to create an account by entering an email address, a unique username, a display name and a password.
-#### 3.1.2 Login an logout
+#### 3.1.2 Login and logout
 The user is able sign in with his email address and password. 
 #### 3.1.3 Edit account properties
 The user is able to change his display name and password on a separate screen in the app. 
