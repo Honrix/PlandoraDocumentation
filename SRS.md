@@ -96,7 +96,7 @@ The user is able sign in with his email address and password.
 #### 3.1.3 Edit account properties
 The user is able to change his display name and password on a separate screen in the app. 
 #### 3.1.4 Save new events
-In the main activity, the user is able to create a new event (one-time or annual) under specification of the date, a description and the type of the event (birthday, anniversary, …).
+In the main activity, the user is able to create a new event (one-time or annual) under specification of the date, a description and the type of the event (birthday, anniversary, …). [UCS](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/Create%20Event.md)
 #### 3.1.5 Save gift ideas in an event
 The user is able to save gift ideas for a specific event. 
 #### 3.1.6 Invite users to gift planning
