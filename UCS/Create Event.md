@@ -35,7 +35,7 @@ To create a new event, the user must be signed in.
 ### 4.2 Dashboard is displayed
 To create a new event, the dashboard in the MainActivity must be open.
 ## 5. Postconditions
-### 5.1 Dasboard is displayed
+### 5.1 Dashboard is displayed
 After creating a new event the user is navigated back to the dashboard. 
 ### 5.2 New Event was created or the process was aborted
 A new event will be visible in the dashboard. If the process was aborted, the information filled in until then are saved in the local storage as a draft.
