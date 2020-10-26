@@ -27,7 +27,7 @@ A more detailed diagram is listed in [2.1.1](#211-activity-diagram).
 #### 2.1.1 Activity Diagram
 ![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Show%20Event%20Details.png)
 #### 2.1.2 Mockup
-The detail view is almost identical to "[Create Event](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/Create%20Event.md)"-view ([Mockup](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/mockup/Create%20Event.PNG)).
+The detail view is almost identical to "[Create Event](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/Create%20Event.md)"-view (see: [Mockup](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/mockup/Create%20Event.PNG)).
 #### 2.1.3 Narrative
 ### 2.2 Alternative Flows
 ## 3. Special requirements
