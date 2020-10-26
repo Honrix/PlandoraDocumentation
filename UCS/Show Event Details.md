@@ -29,15 +29,16 @@ A more detailed diagram is listed in [2.1.1](#211-activity-diagram).
 #### 2.1.2 Mockup
 The detail view is almost identical to "[Create Event](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/Create%20Event.md)"-view (see: [Mockup](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/mockup/Create%20Event.PNG)).
 #### 2.1.3 Narrative
+tbd
 ### 2.2 Alternative Flows
+tbd
 ## 3. Special requirements
+tbd
 ## 4. Preconditions
-### 4.1 Signed in
-To create a new event, the user must be signed in. 
-### 4.2 Dashboard is displayed
-To create a new event, the dashboard in the MainActivity must be open.
+tbd
 ## 5. Postconditions
-### 5.1 Dashboard is displayed
-After creating a new event the user is navigated back to the dashboard. 
+tbd
 ## 6. Extension Points
+tbd
 ## 7. Function Points
+tbd
