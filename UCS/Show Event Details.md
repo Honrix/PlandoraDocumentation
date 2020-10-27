@@ -15,7 +15,7 @@
 - [6. Extension Points](#6-extension-points)
 - [7. Function Points](#7-function-points)
 
-## 1. Specification - Create Event
+## 1. Specification - View Event Details
 ### 1.1 Brief Description
 The user is able to see the provided details on an event by tapping on an event in the dashboard.
 ## 2. Flow of Events
