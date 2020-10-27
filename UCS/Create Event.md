@@ -16,7 +16,7 @@
 - [6. Extension Points](#6-extension-points)
 - [7. Function Points](#7-function-points)
 
-## 1. Specification - Create Event
+## 1. Specification - Show Event Details
 ### 1.1 Brief Description
 In the main activity, the user is able to create a new event. Therefore he is asked to specify the date, a title, the category* and whether the event is annual or one-time.
 * Available categories are: Birthday, Holiday, Anniversary, Others
