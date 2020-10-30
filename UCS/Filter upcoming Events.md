@@ -14,14 +14,16 @@
 
 ## 1. Specification - Filter upcoming Events
 ### 1.1 Brief Description
+By default the dashboard shows all upcoming events sorted in ascending order concerning the number of remaining days. Beyond this, a search bar should be usable to filter the dashbaord for specific events. To achieve this, the user is able to apply a text based search or to filter for specific types of events (e.g. birthdays or holidays). 
 
 ## 2. Flow of Events
 
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
+![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Filter%20upcoming%20Events.png)
 
 #### 2.1.2 Mockup
-
+tbd
 #### 2.1.3 Narrative
 tbd
 ### 2.2 Alternative Flows
