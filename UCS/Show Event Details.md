@@ -31,7 +31,20 @@ The detail view is almost identical to "[Create Event](https://github.com/Honrix
 
 ![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Event_Details.png)
 #### 2.1.3 Narrative
-tbd
+```
+Feature: View Event Details
+  The user is able to view details of an event and edit them
+
+  Scenario: edit event details
+    Given the user is on EventDetailActivity
+    When the user clicks on edit event
+    Then the user lands on EditDetailActivity
+
+  Scenario: close event details
+    Given the user is on EventDetailActivity
+    When the user clicks on close detailview
+    Then the user lands on Dashboard
+```
 ### 2.2 Alternative Flows
 tbd
 ## 3. Special requirements
