@@ -31,6 +31,30 @@ A more detailed diagram is listed in [2.1.1](#211-activity-diagram).
 #### 2.1.2 Mockup
 ![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Create%20Event.PNG)
 #### 2.1.3 Narrative
+```
+Feature: Create Event
+  The user is able to create a new event. Therefore he is asked to specify the date, a
+  title, the category and whether the event is annual or one-time.
+
+  Scenario: event successfully created
+    Given the user is on CreateEventActivity
+    When the user enters valid data
+    And the user clicks submit
+    Then a new event is created
+    Then the user lands on Dashboard
+
+  Scenario: failed to create event
+    Given the user is on CreateEventActivity
+    When the user enters invalid data
+    And the user clicks submit
+    Then the user gets error message
+
+  Scenario: event creation is aborted
+    Given the user is on CreateEventActivity
+    When the user clicks back button
+    Then the user lands on Dashboard
+    Then the data already entered is stored as draft
+```
 ### 2.2 Alternative Flows
 ## 3. Special requirements
 ## 4. Preconditions
