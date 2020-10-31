@@ -14,7 +14,7 @@
 
 ## 1. Specification - Filter upcoming Events
 ### 1.1 Brief Description
-By default the dashboard shows all upcoming events sorted in ascending order concerning the number of remaining days. Beyond this, a search bar should be usable to filter the dashbaord for specific events. To achieve this, the user is able to apply a text based search or to filter for specific types of events (e.g. birthdays or holidays). 
+By default the dashboard shows all upcoming events sorted in ascending order concerning the number of remaining days. Beyond this, a search bar should be usable to filter the dashbaord for specific events. To achieve this, the user is able to apply a text based search or to filter for specific types of events (e.g. birthdays or holidays). When entering text into the search field, the dashboard should be updated instantaneously.
 
 ## 2. Flow of Events
 
