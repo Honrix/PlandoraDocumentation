@@ -1,4 +1,4 @@
-- [1. Specification - Filter upcoming Events](#1-specification-view-event-details)
+- [1. Specification - Filter upcoming Events](#1-specification-filter-upcoming-events)
     - [1.1 Brief Description](#11-brief-description)
 - [2. Flow of Events](#2-flow-of-events)
     - [2.1 Basic Flow](#21-basic-flow)
@@ -25,7 +25,25 @@ By default the dashboard shows all upcoming events sorted in ascending order con
 #### 2.1.2 Mockup
 tbd
 #### 2.1.3 Narrative
-tbd
+```
+Feature: Filter Upcoming Events
+  The user is able to filter the dashboard by specific events
+
+  Scenario: apply text search
+    Given the user clicked on search bar
+    When the user enters text in search bar
+    Then the dashboard is filtered by matching text
+
+  Scenario: apply search for event types
+    Given the user clicked on search bar
+    When the user clicks on type label
+    Then the dashboard is filtered by given type
+
+  Scenario: search is aborted
+    Given the user clicked on search bar
+    When the user clicks on back button
+    Then the search bar disappears
+```
 ### 2.2 Alternative Flows
 tbd
 ## 3. Special requirements
