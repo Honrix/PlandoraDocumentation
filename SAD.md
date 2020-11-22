@@ -4,7 +4,7 @@
     - [1.3 Definitions, Acronyms and Abbreviations](#13-definitions-acronyms-and-abbreviations)
     - [1.4 References](#14-references)
     - [1.5 Overview](#15-overview)
-- [2. Architectural Representation](#2-architectural-representation
+- [2. Architectural Representation](#2-architectural-representation)
 - [3. Architectural Goals and Constraints](#3-architectural-goals-and-constraints)
 - [4. Use-Case View](#4-use-case-view)
     - [4.1 Use-Case-Realizations](#41-use-case-realizations)
@@ -26,21 +26,29 @@ This document provides a comprehensive architectural overview of the Plandora sy
 ### 1.2 Scope
 This Software Architecture Document describes the Plandora App architecture. Plandora is an Android app which allows its users to save important events in their private environment such as birthdays and anniversaries and offers the functionality to manage their gift ideas. The software specifications described in this document outline the development process of the application.This Software Architecture Document describes the Plandora App architecture. Plandora is an Android app which allows its users to save important events in their private environment such as birthdays and anniversaries and offers the functionality to manage their gift ideas. The software specifications described in this document outline the development process of the application.
 ### 1.3 Definitions, Acronyms and Abbreviations
+| Abbrevation | Description                         |
+| ----------- | ----------------------------------- |
+| MVC         | Model View Controller               |
+| n/a         | not applicable                      |
+| tbd         | to be determined                    |
+
 ### 1.4 References
-- Blog
-- Github (Code)
-- Github (Documentation)
-- YouTrack
-- Android App Quality Guidelines
-- Material Design Guidelines
-- CodeFactor
+- [Blog](https://plandora51897980.wordpress.com/)
+- [Github (Code)](https://github.com/nf3lix/Plandora)
+- [Github (Documentation)](https://github.com/Honrix/PlandoraDocumentation)
+- [YouTrack](https://dhbw-karlsruhe.myjetbrains.com/youtrack/agiles/108-76/109-465)
+- [Android App Quality Guidelines](https://developer.android.com/docs/quality-guidelines)
+- [Material Design Guidelines](https://material.io/design)
+- [CodeFactor](https://www.codefactor.io/)
 ### 1.5 Overview
 tbd
 
 ## 2. Architectural Representation
 In this project we apply the MVC Pattern which means there are three important components: Models, Views and Controllers. Generally speaking, models represent the logic and the state of objects, the view stands for the user interface whereas the controller is responsible for each manipulation of data.
 The appearance of each view is just like each string content stored in a separate XML file. 
-![MVC](https://www.methodpark.de/blog/wp-content/uploads/2018/07/Model-View-Controller-High-Level-Diagram-768x339.png) Source: https://www.methodpark.de/blog/model-view-controller-mvc/
+![MVC](https://www.methodpark.de/blog/wp-content/uploads/2018/07/Model-View-Controller-High-Level-Diagram-768x339.png) 
+
+Source: https://www.methodpark.de/blog/model-view-controller-mvc/
 
 ## 3. Architectural Goals and Constraints
 Our goal is to apply the MVC pattern in our app which is mostly given in Android per default. In addition, we try to stick to the Android App Quality Guidelines (https://developer.android.com/docs/quality-guidelines)  and the Material Design Guidelines (https://material.io/design) as close as possible
