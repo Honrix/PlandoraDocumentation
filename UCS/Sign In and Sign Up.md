@@ -31,7 +31,8 @@ tbd
 ![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Event_Details.png)
 
 ### 2.2 Alternative Flows
-tbd
+#### 2.2.1 Aborting the process
+At any step of this flow, the user is able to abort the process. This can either be done by closing the app or by closing the SignUpActivity premutarly. This will not affect further trys to sign in/sign up. 
 ## 3. Special requirements
 tbd
 ## 4. Preconditions
