@@ -61,6 +61,7 @@ Our goal is to apply the MVC pattern in our app which is mostly given in Android
 ## 5. Logical View
 ### 5.1 Overview
 This section deals with the most important logical components
+
 *PlandoraUser*: each user is able to create new events and to invite other users. 
 
 *Event*: each event has an owner and (optionally) multiple attendees (PlandoraUsers). Each of them is able to create new gift ideas, but only the owner is allowed to edit the event details (such as the title).
