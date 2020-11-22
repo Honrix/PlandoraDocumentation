@@ -34,7 +34,7 @@ tbd
 #### 2.2.1 Aborting the process
 At any step of this flow, the user is able to abort the process. This can either be done by closing the app or by closing the SignUpActivity premutarly. This will not affect further trys to sign in/sign up. 
 ## 3. Special requirements
-tbd
+Since we're going to use firebase, we first have to set up an authentication method which probably will be "Email address/password" (another sign-in methods available in firebase is the authentication with Google, Facebook or GitHub). Since we want to collect additional data about the user (a unique and a displayed username) we will also create a separate document for every user in Cloud Firestore.
 ## 4. Preconditions
 ### 4.1 App has launched
 The app has launched (SignInActivity is shown to the user)
