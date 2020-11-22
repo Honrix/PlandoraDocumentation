@@ -28,7 +28,7 @@ On the other hand the user can login to an existing account with its password an
 ![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Sign_in_Sign_up.png)
 #### 2.1.2 Mockup
 ![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Sign%20In.png)
-![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Sign Up.png)
+![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Sign%20Up.png)
 
 ### 2.2 Alternative Flows
 #### 2.2.1 Aborting the process
