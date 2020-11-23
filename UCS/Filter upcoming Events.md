@@ -8,7 +8,10 @@
     - [2.2 Alternative Flows](#21-alternative-flows)
 - [3. Special Requirements](#3-special-requirements)
 - [4. Precondition](#4-preconditions)
-- [5. Postconditions](#5-postconditions) 
+    - [4.1 User is signed in](#41-user-is-signed-in)
+    - [4.2 Dashboard is shown](#42-dashboard-is-shown)
+- [5. Postconditions](#5-postconditions)
+    - [5.1 Result is shown](#51-result-is-shown)
 - [6. Extension Points](#6-extension-points)
 - [7. Function Points](#7-function-points)
 
@@ -45,13 +48,19 @@ Feature: Filter Upcoming Events
     Then the search bar disappears
 ```
 ### 2.2 Alternative Flows
-tbd
+At any single step of this flow, the user is able to abort the process by clicking the back button.
+
 ## 3. Special requirements
-tbd
+n/a
+
 ## 4. Preconditions
-tbd
+### 4.1 User is signed in
+To filter upcoming events, the user must be signed in.
+### 4.2 Dashboard is shown
+The dashboard including all upcoming events is shown to the user.
 ## 5. Postconditions
-tbd
+### 5.1 Result is shown
+After applying the filter, all important events a shown in the dashboard. If the process was aborted prematurely, the complete dashboard is shown
 ## 6. Extension Points
 tbd
 ## 7. Function Points
