@@ -73,17 +73,17 @@ The whole class diagram
 ![UML](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UML%20Class%20Diagram.png)
 
 ## 6. Process View
-tbd
+(n/a)
 
 ## 7. Deployment View
 The app runs on the user's device and the backend is provided by an external service (Google Firebase). We frequently test our app on physical devices. The device with the lowest specs is a Huawei P8 Lite (Android 6, 8x1.2 GHz, 2GB RAM). 
 
 ## 8. Implementation View
 ### 8.1 Overview
-tbd
+(n/a)
 
 ### 8.2 Layers
-tbd
+(n/a)
 
 ## 9. Data View
 As we use Firestore, our database will be NoSQL. That means that any user and event (such as an upcoming birthday) is stored in a separate document. That’s why it’s not convenient to create a meaningful ER Diagram and why we created exemplary JSON documents.
@@ -91,7 +91,7 @@ As we use Firestore, our database will be NoSQL. That means that any user and ev
 ![DB_Schema_json](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/DB_Schema_json.PNG)
 
 ## 10. Size and Performance
-tbd
+tbd / (n/a)
 
 ## 11. Quality
 To capture our code quality and to find issues, we use the open source tool CodeFactor. This tool is capable of reviewing code in git repositories automatically.    
