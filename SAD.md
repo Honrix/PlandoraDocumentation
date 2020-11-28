@@ -56,8 +56,6 @@ Our goal is to apply the MVC pattern in our app which is mostly given in Android
 ## 4. Use-Case View
 ![UCD](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCD.png)
 
-### 4.1 Use-Case-Realizations
-
 ## 5. Logical View
 ### 5.1 Overview
 This section deals with the most important logical components
