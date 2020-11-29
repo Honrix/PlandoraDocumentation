@@ -70,7 +70,7 @@ This section deals with the most important logical components
 The following image shows which classes belong to which component. 
 ![UML_Overview](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UML%20overview.PNG)
 The whole class diagram
-![UML](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UML%20Class%20Diagram.png)
+![UML](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/Plandora%20Class%20Diagram.png)
 
 ## 6. Process View
 (n/a)
