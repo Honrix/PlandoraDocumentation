@@ -77,6 +77,8 @@ The whole class diagram
 
 ## 7. Deployment View
 The app runs on the user's device and the backend is provided by an external service (Google Firebase). We frequently test our app on physical devices. The device with the lowest specs is a Huawei P8 Lite (Android 6, 8x1.2 GHz, 2GB RAM). 
+![UCD](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/SAD.png)
+
 
 ## 8. Implementation View
 ### 8.1 Overview
