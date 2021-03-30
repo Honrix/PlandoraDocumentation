@@ -130,7 +130,10 @@ tbd
 ### 3.5 Supportability
 tbd
 ### 3.6 Design Constraints
-tbd
+- IDE: ![Android Studio](https://developer.android.com/studio?hl=de)
+- Programming Language: ![Kotlin](https://kotlinlang.org/)
+- Versioning: ![Git/GitHub](https://github.com/nf3lix/Plandora)
+- Project Management: ![YouTrack](https://dhbw-karlsruhe.myjetbrains.com/youtrack/agiles/108-76/109-465)
 ### 3.7 Online User Documentation and Help System Requirements
 tbd
 ### 3.8 Purchased Components
