@@ -25,6 +25,7 @@ By default the dashboard shows all upcoming events sorted in ascending order con
 #### 2.1.1 Activity Diagram
 ![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Filter%20upcoming%20Events.png)
 
+![Feature File](https://github.com/nf3lix/Plandora/blob/master/app/src/androidTest/java/com/plandora/steps/filter_upcoming_events.feature)
 #### 2.1.2 Mockup
 ![Filter Events Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Filter_View.png)
 #### 2.1.3 Narrative
