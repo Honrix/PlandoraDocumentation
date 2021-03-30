@@ -28,6 +28,7 @@ A more detailed diagram is listed in [2.1.1](#211-activity-diagram).
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
 ![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Create%20Event.png)
+![Feature File](https://github.com/nf3lix/Plandora/blob/master/app/src/androidTest/java/com/plandora/steps/create_event.feature)
 #### 2.1.2 Mockup
 ![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Create%20Event.PNG)
 #### 2.1.3 Narrative
