@@ -23,10 +23,9 @@ This use case is part of a CRUD, which means that it is about creating, reading,
 ![CRUD](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/CRUD/Add%20Gift%20Idea%20CRUD.png)
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
-![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Filter%20upcoming%20Events.png)
 
 #### 2.1.2 Mockup
-![Filter Events Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Filter_View.png)
+
 #### 2.1.3 Narrative
 
 ### 2.2 Alternative Flows
