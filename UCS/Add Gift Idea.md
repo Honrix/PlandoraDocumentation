@@ -22,6 +22,7 @@
 This use case is part of a CRUD, which means that it is about creating, reading, updating and deleting entries. 
 ![CRUD](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/CRUD/Add%20Gift%20Idea%20CRUD.png)
 ### 2.1 Basic Flow
+![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Add%20Idea.png)
 #### 2.1.1 Activity Diagram
 
 #### 2.1.2 Mockup
