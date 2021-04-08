@@ -36,11 +36,17 @@ n/a
 
 ## 4. Preconditions
 ### 4.1 User is signed in
+To create a new event, the user must be signed in.
 
 ### 4.2 User is attendee of an event
+The user must attendee or owner of the event. 
+
+### 4.2 User is on Event View
+To add a new idea, the user must be on the view to create a new event or to see the detailed information of an event. 
 
 ## 5. Postconditions
 ### 5.1 Gift Idea is added to event
+An added idea is displayed in the event details and stored in firestore.
 
 ## 6. Extension Points
 tbd
