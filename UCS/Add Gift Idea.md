@@ -19,7 +19,8 @@
 ### 1.1 Brief Description
 
 ## 2. Flow of Events
-
+This use case is part of a CRUD, which means that it is about creating, reading, updating and deleting entries. 
+![CRUD](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/CRUD/Add%20Gift%20Idea%20CRUD.png)
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
 ![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Filter%20upcoming%20Events.png)
