@@ -1,4 +1,4 @@
-- [1. Specification - Add Gift Idea](#1-specification-add-gift-idea)
+- [1. Specification - Handle pending invitations](#1-specification-handle-pending-invitations)
     - [1.1 Brief Description](#11-brief-description)
 - [2. Flow of Events](#2-flow-of-events)
     - [2.1 Basic Flow](#21-basic-flow)
@@ -19,8 +19,6 @@
 ### 1.1 Brief Description
 
 ## 2. Flow of Events
-This use case is part of a CRUD, which means that it is about creating, reading, updating and deleting entries. 
-![CRUD](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/CRUD/Add%20Gift%20Idea%20CRUD.png)
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
 ![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Handle%20pending%20invitations.png)
