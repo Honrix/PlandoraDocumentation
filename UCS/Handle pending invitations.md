@@ -34,17 +34,18 @@ n/a
 
 ## 4. Preconditions
 ### 4.1 User is signed in
-To create a new event, the user must be signed in.
+To handle pending invitations, the user must be signed in.
 
-### 4.2 User is attendee of an event
-The user must attendee or owner of the event. 
+### 4.2 User is invited to an event
+The user must be invited to an event in order to receive an invitation. 
 
-### 4.2 User is on Event View
-To add a new idea, the user must be on the view to create a new event or to see the detailed information of an event. 
+### 4.2 User is on Notifications Dialog
+To handle a pending invitations (either accept or decline), the user must be on the Notifications Dialog. 
 
 ## 5. Postconditions
-### 5.1 Gift Idea is added to event
-An added idea is displayed in the event details and stored in firestore.
+### 5.1 Pending invitation is removed from the Dialog
+The pending invitation was either declined or accepted. In case it was accepted, the User is added as an attendee for the event.
+In both cases, the pending invitations is removed from the Notifications Dialog.
 
 ## 6. Extension Points
 tbd
