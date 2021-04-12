@@ -20,7 +20,7 @@ In the main activity, the user is able to create a new event. Therefore he is as
 * Available categories are: Birthday, Holiday, Anniversary, Others
 ## 2. Flow of Events
 This use case is part of a CRUD, which means that it is about creating, reading, updating and deleting entries. 
-![CRUD](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/CRUD/Create%20Event.png)
+![CRUD](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/CRUD/Search%20For%20Events.png)
 
 A more detailed diagram is listed in [2.1.1](#211-activity-diagram).
 ### 2.1 Basic Flow
