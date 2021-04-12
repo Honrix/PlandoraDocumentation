@@ -25,7 +25,7 @@ In the main activity, the user is able to search and filter for events. Therefor
 ![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Search%20For%20Events.PNG)
 #### 2.1.3 Narrative
 ```
-Feature: Create Event
+Feature: Search For Events
   The user is able to search for events. Therefore he is asked to enter a filter condition, e.g. the date, the name or the category.
 
   Scenario: search successfully done
