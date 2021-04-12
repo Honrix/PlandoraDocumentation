@@ -25,35 +25,30 @@ This use case is part of a CRUD, which means that it is about creating, reading,
 A more detailed diagram is listed in [2.1.1](#211-activity-diagram).
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
-![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Create%20Event.png)
-
-![Feature File](https://github.com/nf3lix/Plandora/blob/master/app/src/androidTest/java/com/plandora/steps/create_event.feature)
+![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Search%20For%20Events.png)
 #### 2.1.2 Mockup
-![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Create%20Event.PNG)
+![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Search%20For%20Events.PNG)
 #### 2.1.3 Narrative
 ```
 Feature: Create Event
-  The user is able to create a new event. Therefore he is asked to specify the date, a
-  title, the category and whether the event is annual or one-time.
+  The user is able to search for events. Therefore he is asked to enter a filter condition, e.g. the date, the name or the category.
 
-  Scenario: event successfully created
-    Given the user is on CreateEventActivity
+  Scenario: search successfully done
+    Given the user is on SearchForEventsActivity
     When the user enters valid data
     And the user clicks submit
-    Then a new event is created
-    Then the user lands on Dashboard
+    Then just searched events are displayed
 
-  Scenario: failed to create event
-    Given the user is on CreateEventActivity
+  Scenario: failed to search for events
+    Given the user is on SearchForEventsActivity
     When the user enters invalid data
     And the user clicks submit
     Then the user gets error message
 
-  Scenario: event creation is aborted
-    Given the user is on CreateEventActivity
-    When the user clicks back button
+  Scenario: search is aborted
+    Given the user is on SearchForEventsActivity
+    When the user clicks cancel button
     Then the user lands on Dashboard
-    Then the data already entered is stored as draft
 ```
 ### 2.2 Alternative Flows
 ## 3. Special requirements
@@ -62,6 +57,6 @@ Feature: Create Event
 To search for events, the user must be signed in. 
 ## 5. Postconditions
 ### 5.1 Searched events are displayed
-After creating a new event the user is navigated back to the dashboard. 
+After searching for events the user is navigated back to the dashboard with normal and unfiltered view. 
 ## 6. Extension Points
 ## 7. Function Points
