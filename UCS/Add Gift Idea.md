@@ -26,6 +26,7 @@ This use case is part of a CRUD, which means that it is about creating, reading,
 ![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Add%20Idea.png)
 
 #### 2.1.2 Mockup
+![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Add%20Gift%20Ideas.png)
 
 #### 2.1.3 Narrative
 
