@@ -24,6 +24,7 @@
 ![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Handle%20pending%20invitations.png)
 
 #### 2.1.2 Mockup
+![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Pending%20Invitations.png)
 
 #### 2.1.3 Narrative
 
