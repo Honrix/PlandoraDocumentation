@@ -21,8 +21,10 @@ In the main activity, the user is able to search and filter for events. Therefor
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
 ![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Search%20For%20Events.png)
+
 #### 2.1.2 Mockup
-![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Search%20For%20Events.png)
+![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Search%20for%20Events.png)
+
 
 #### 2.1.3 Narrative
 ```
