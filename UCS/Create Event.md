@@ -71,4 +71,4 @@ A new event will be visible in the dashboard. If the process was aborted, the in
 ## 6. Extension Points
 ## 7. Function Points
 ![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Create_Event_FP.PNG)
-Function Points: 52.92
+Function Points: 60.76
