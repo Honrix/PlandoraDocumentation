@@ -48,4 +48,6 @@ The user is navigated to the MainActivity which per default shows the dashboard 
 ## 6. Extension Points
 tbd
 ## 7. Function Points
-tbd
+![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Sign_in_Sign_up_FP.PNG)
+
+Function Points: 44.1
