@@ -52,4 +52,6 @@ An added idea is displayed in the event details and stored in firestore.
 ## 6. Extension Points
 tbd
 ## 7. Function Points
-tbd
+![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Add_Gift_Idea_FP.PNG)
+
+Function Points: 41.16
