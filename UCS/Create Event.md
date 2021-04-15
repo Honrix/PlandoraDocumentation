@@ -70,3 +70,5 @@ After creating a new event the user is navigated back to the dashboard.
 A new event will be visible in the dashboard. If the process was aborted, the information filled in until then are saved in the local storage as a draft.
 ## 6. Extension Points
 ## 7. Function Points
+![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Create_Event_FP.PNG)
+Function Points: 51.41
