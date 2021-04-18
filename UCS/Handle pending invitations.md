@@ -51,4 +51,5 @@ In both cases, the pending invitations is removed from the Notifications Dialog.
 ## 6. Extension Points
 tbd
 ## 7. Function Points
-tbd
+
+Function Points: 44.1
