@@ -58,5 +58,4 @@ tbd
 ## 6. Extension Points
 tbd
 ## 7. Function Points
-![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Show_Event_Details_FP.PNG)
-Function Points: 60.76
+tbd
