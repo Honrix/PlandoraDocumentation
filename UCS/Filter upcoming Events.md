@@ -65,4 +65,5 @@ After applying the filter, all important events a shown in the dashboard. If the
 ## 6. Extension Points
 tbd
 ## 7. Function Points
-tbd
+![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Filter_Upcoming_Events_FP.PNG)
+Function Points: 22.80
