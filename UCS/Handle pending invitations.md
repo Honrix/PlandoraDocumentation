@@ -51,6 +51,6 @@ In both cases, the pending invitations is removed from the Notifications Dialog.
 ## 6. Extension Points
 tbd
 ## 7. Function Points
-![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Pending_Invitations_FP.PNG)
+![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Pending_Invitations_FP.png)
 
 Function Points: 44.1
