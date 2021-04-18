@@ -58,3 +58,5 @@ To search for events, the user must be signed in.
 After searching for events the user is navigated back to the dashboard with normal and unfiltered view. 
 ## 6. Extension Points
 ## 7. Function Points
+![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Show_Event_Details_FP.PNG)
+Function Points: 59.28
