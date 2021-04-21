@@ -50,7 +50,7 @@ To invite another user, you must be on the view to create a new event or to see 
 
 ## 5. Postconditions
 ### 5.1 Gift Idea is added to event
-The invited user got an in-app notification (see UC: Handle Pending Invitations).
+The invited user got an in-app notification (see [UC: Handle pending Invitations](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/Handle%20pending%20invitations.md)).
 
 ## 6. Extension Points
 tbd
