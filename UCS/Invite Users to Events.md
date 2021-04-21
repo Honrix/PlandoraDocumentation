@@ -56,5 +56,5 @@ The invited user got an in-app notification (see UC: Handle Pending Invitations)
 tbd
 
 ## 7. Function Points
-
-Function Points:
+![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Invite_user_FP.PNG)
+Function Points: 48.02
