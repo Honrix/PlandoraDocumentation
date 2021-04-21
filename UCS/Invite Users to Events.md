@@ -24,6 +24,7 @@ The perspective of the invited user is discribed in [UC: Handle pending Invitati
 
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
+![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Invite%20User.png)
 
 #### 2.1.2 Mockup
 tbd
