@@ -17,7 +17,8 @@
 
 ## 1. Specification - Invite Users to Events
 ### 1.1 Brief Description
-The owner of an event is able to invite other Plandora users, who are allowed to display the event details and to share their gift ideas.
+The owner of an event is able to invite other Plandora users, who are allowed to display the event details and to share their gift ideas. 
+Therefore the owner is asked to specify the unique username or email of the corresponding user.
 The perspective of the invited user is discribed in [UC: Handle pending Invitations](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/Handle%20pending%20invitations.md).
 
 ## 2. Flow of Events
@@ -32,7 +33,8 @@ tbd
 #### 2.1.3 Narrative
 ```
 Feature: Invite User to Event
-  The owner of an event is able to invite other users who are allowed to share their gift ideas. Therefore he is asked to specify the unique username or email of the corresponding user.
+  The owner of an event is able to invite other users who are allowed to share their gift ideas. 
+Therefore he is asked to specify the unique username or email of the corresponding user.
 
   Scenario: invitation successfully created
     Given the InviteUserDialog in EventDetailsActivityis displayed
