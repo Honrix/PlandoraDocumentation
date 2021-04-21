@@ -34,7 +34,7 @@ tbd
 ```
 Feature: Invite User to Event
   The owner of an event is able to invite other users who are allowed to share their gift ideas. 
-Therefore he is asked to specify the unique username or email of the corresponding user.
+    Therefore he is asked to specify the unique username or email of the corresponding user.
 
   Scenario: invitation successfully created
     Given the InviteUserDialog in EventDetailsActivityis displayed
