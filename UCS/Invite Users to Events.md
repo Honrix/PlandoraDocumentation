@@ -30,7 +30,29 @@ The perspective of the invited user is discribed in [UC: Handle pending Invitati
 tbd
 
 #### 2.1.3 Narrative
-tbd
+```
+Feature: Invite User to Event
+  The owner of an event is able to invite other users who are allowed to share their gift ideas. Therefore he is asked to specify the unique username or email of the corresponding user.
+
+  Scenario: invitation successfully created
+    Given the InviteUserDialog in EventDetailsActivityis displayed
+    When user enters valid username or email
+    And the user clicks submit
+    Then the Invite User Dialog is disposed
+    Then the invitation was sent
+
+  Scenario: unable to find user
+    Given the InviteUserDialog in EventDetailsActivityis displayed
+    When the user enters invalid username or email
+    And the user clicks submit
+    Then the user gets error message
+    Then the Invite User Dialog is disposed
+
+  Scenario: invitation is aborted
+    Given the InviteUserDialog in EventDetailsActivityis displayed
+    When the user clicks back button
+    Then the Invite User Dialog is disposed
+```
 
 ### 2.2 Alternative Flows
 n/a
