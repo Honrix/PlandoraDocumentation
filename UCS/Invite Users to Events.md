@@ -28,7 +28,7 @@ The perspective of the invited user is discribed in [UC: Handle pending Invitati
 ![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Invite%20User.png)
 
 #### 2.1.2 Mockup
-tbd
+![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Invite%20Users.png)
 
 #### 2.1.3 Narrative
 ```
