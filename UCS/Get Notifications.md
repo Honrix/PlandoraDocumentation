@@ -9,7 +9,6 @@
 - [3. Special Requirements](#3-special-requirements)
 - [4. Precondition](#4-preconditions)
     - [4.1 User is signed in](#41-user-is-signed-in)
-    - [4.2 Dashboard is shown](#42-dashboard-is-shown)
 - [5. Postconditions](#5-postconditions)
     - [5.1 Result is shown](#51-result-is-shown)
 - [6. Extension Points](#6-extension-points)
@@ -17,14 +16,15 @@
 
 ## 1. Specification - Handle pending invitations
 ### 1.1 Brief Description
+The user is able to receive notifications as well inside the app as on the smarthpone outside of the app. These notifications are giving informations to the user.
 
 ## 2. Flow of Events
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
-![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Handle%20pending%20invitations.png)
+![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Get%20Notifications.png)
 
 #### 2.1.2 Mockup
-![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Pending%20Invitations.png)
+![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Get%20Notifications.png)
 
 #### 2.1.3 Narrative
 
@@ -35,22 +35,15 @@ n/a
 
 ## 4. Preconditions
 ### 4.1 User is signed in
-To handle pending invitations, the user must be signed in.
-
-### 4.2 User is invited to an event
-The user must be invited to an event in order to receive an invitation. 
-
-### 4.2 User is on Notifications Dialog
-To handle a pending invitations (either accept or decline), the user must be on the Notifications Dialog. 
+To receive notifications, the user must be signed in.
 
 ## 5. Postconditions
-### 5.1 Pending invitation is removed from the Dialog
-The pending invitation was either declined or accepted. In case it was accepted, the User is added as an attendee for the event.
-In both cases, the pending invitations is removed from the Notifications Dialog.
+### 5.1 Notification is shown
+The sended notification is available for the user and can be view on the notification box of the smartphone.
 
 ## 6. Extension Points
 tbd
 ## 7. Function Points
-![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Pending_Invitations_FP.png)
+![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Get_Notifications_FP.png)
 
-Function Points: 44.1
+Function Points: 31.36
