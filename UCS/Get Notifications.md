@@ -44,6 +44,6 @@ The sended notification is available for the user and can be view on the notific
 ## 6. Extension Points
 tbd
 ## 7. Function Points
-![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Get_Notifications_FP.png)
+![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Get_Notifications_FP.PNG)
 
 Function Points: 31.36
