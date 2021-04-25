@@ -24,7 +24,7 @@ The user is able to receive notifications as well inside the app as on the smart
 ![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Get%20Notifications.png)
 
 #### 2.1.2 Mockup
-![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Get%20Notifications.png)
+![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Notifications.png)
 
 #### 2.1.3 Narrative
 
