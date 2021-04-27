@@ -1,14 +1,10 @@
 # Test plan
 
-1.       Introduction
-
-1.1     Purpose
-
-1.2     Scope
-
-1.3     Intended Audience
-
-1.4     Document Terminology and Acronyms
+- [1. Introduction](#1-introduction)
+    - [1.1 Purpose](#11-purpose)
+    - [1.2 Scope](#12-scope)
+    - [1.3 Intended Audience](#13-Intended Audience)
+    - [1.4 Document Terminology and Acronyms](#14-Document Terminology and Acronyms)
 
 1.5     References
 
