@@ -2,24 +2,25 @@
 
 ## 1.	Introduction
 ### 1.1	Purpose
-The purpose of the Iteration Test Plan is to gather all of the information necessary to plan and control the test effort for a given iteration. 
-It describes the approach to testing the software.
-This Test Plan for **PartyPlayer** supports the following objectives:
+The purpose of the Iteration Test Plan is to gather all the information necessary to plan and control the test effort for the given iteration. It describes the approach to the testing of the software and is the top-level plan generated and used by the managers to direct the test effort.
+This Test Plan document for Plandora supports the following objectives:
 -	Identifies the items that should be targeted by the tests.
 -	Identifies the motivation for and ideas behind the test areas to be covered.
 -	Outlines the testing approach that will be used.
 -	Identifies the required resources and provides an estimate of the test efforts.
+-	Lists the deliverable elements of the test project.
 
 ### 1.2	Scope
-This document describes the used tests, as they are unit tests and functionality testing.
+This document describes the used tests, as well as the testing workflow. We use User Interface Test, Unit Tests and Feature Tests. Additionally, we test the Plandora app manually.
 
 ### 1.3	Intended Audience
-This document is meant for internal use primarily.
+This document is intended for internal use primarily. Further, this document will be handed in at the end of the semester and is posted on our Plandora-Blog.
 
 ### 1.4	Document Terminology and Acronyms
 - **SRS**	Software Requirements Specification
+- **SAD**   Software Architecture Document
 - **n/a**	not applicable
-- **tbd**	to be determined
+- **tbd**	to be done
 
 ### 1.5	 References
 | Reference        | 
