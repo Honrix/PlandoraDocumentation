@@ -222,4 +222,4 @@ Human Resources
 |---|---|---|
 | Unexpected failures in production | Cover as much scenarios as possible, Logging | Look into logs and fix the bug, Roll back version if necessary |
 ## 13. Management Process and Procedures
--
+
