@@ -67,7 +67,7 @@ n/a
 ### 5.1 Initital Test-Idea Catalogs and Other Reference Sources
 **n/a**
 ### 5.2	Testing Techniques and Types
-#### 5.2.1 SpringBoot Backend Testing
+#### 5.2.1 Data and Database Integrity Testing
 || |
 |---|---|
 |Technique Objective  	| The backend should be started. Several request should be made to determine the correct functionality of the backend. |
@@ -77,7 +77,7 @@ n/a
 |Success Criteria	| expected responses, passing tests |
 |Special Considerations	|     -          |
 
-#### 5.2.2 Angular Frontend Testing
+#### 5.2.2 Function Testing
 || |
 |---|---|
 |Technique Objective  	| Every interaction with the frontend should function as intended. |
