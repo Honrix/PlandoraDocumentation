@@ -25,7 +25,7 @@ This document is intended for internal use primarily. Further, this document wil
 ### 1.5	 References
 | Reference        | 
 | ------------- |
-| [SAD](./sad.md) | 
+| [SAD](https://github.com/Honrix/PlandoraDocumentation/blob/d398b9d82d75a2fbb670323a40499e69f588c9c9/SAD.md) | 
 | [UseCases](../UseCases) |
             
 ## 2.	Evaluation Mission and Test Motivation
