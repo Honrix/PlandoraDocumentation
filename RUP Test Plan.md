@@ -120,18 +120,12 @@ n/a
 ## 6.	Entry and Exit Criteria
 ### 6.1	Test Plan
 #### 6.1.1	Test Plan Entry Criteria
-Pushing new commits to gitlab will trigger the GitLab CI/CD pipeline.
 #### 6.1.2	Test Plan Exit Criteria
-When all tests pass without throwing an exception.
 #### 6.1.3 Suspension and Resumption Criteria
-n/a
 ### 6.2	Test Cycles
 #### 6.2.1	Test Cycle Entry Criteria
-Pushing new commits to gitlab will trigger the GitLab CI/CD pipeline.
 #### 6.2.2	Test Cycle Exit Criteria
-When all tests pass without throwing an exception.
 #### 6.2.3 Test Cycle Abnormal Termination
-n/a
 
 ## 7.	Deliverables
 ### 7.1	Test Evaluation Summaries
