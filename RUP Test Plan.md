@@ -25,8 +25,12 @@ This document is intended for internal use primarily. Further, this document wil
 ### 1.5	 References
 | Reference        | 
 | ------------- |
+| [Blog](https://plandora51897980.wordpress.com/) |
+| [Github (Code)](https://github.com/nf3lix/Plandora) |
+| [Github (Documentation)](https://github.com/Honrix/PlandoraDocumentation) |
+| [YouTrack](https://dhbw-karlsruhe.myjetbrains.com/youtrack/agiles/108-76/109-465) |
 | [SAD](https://github.com/Honrix/PlandoraDocumentation/blob/d398b9d82d75a2fbb670323a40499e69f588c9c9/SAD.md) | 
-| [SRS](https://github.com/Honrix/PlandoraDocumentation/blob/545a622c3f6d3e2fe66e95fb0eeb2636c487ef7a/SRS.md)|
+| [SRS](https://github.com/Honrix/PlandoraDocumentation/blob/545a622c3f6d3e2fe66e95fb0eeb2636c487ef7a/SRS.md) |
 | [Use Cases](https://github.com/Honrix/PlandoraDocumentation/tree/main/UCS) |
             
 ## 2.	Evaluation Mission and Test Motivation
