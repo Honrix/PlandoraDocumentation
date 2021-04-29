@@ -216,10 +216,11 @@ Human Resources
 
 | Milestone | Planned Start Date | Actual Start Date | Planned End Date | Actual End Date |
 |---|---|---|---|---|
-| Have Unit Tests | 01.04.2020 | since start of development | 4.6.2020 | 4.6.2020   |
-| 50% coverage | 12.5.2020 | 12.5.2020   | 25.05.2020   | **tbd**   |
-| Tests integrated in CI | Beginning | Beginning | Beginning | Beginning |
-| Postman Testing | 27.05.2020 | 27.05.2020 | End of semester | 25.06.2020 |
+| Run Cucumber Tests | 27.10.2020 | 27.10.2020 | 07.12.2020 | 01.12.2020   |
+| Having Unit Tests | 27.04.2021 | 29.04.2021   | 04.05.2021   | **tbd**   |
+| Having UI Tests | 27.04.2021 | 07.04.2021 | 04.05.2021 | 07.04.21 |
+| Having CI in Github | 27.04.2021 | **tbd** | 04.05.2021 | **tbd** |
+| 50% Unit Test Coverage | 04.05.2021 | **tbd** | 18.05.2021 | **tbd** |
 
 
 ## 12.	Risks, Dependencies, Assumptions, and Constraints
