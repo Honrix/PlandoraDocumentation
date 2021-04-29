@@ -259,11 +259,11 @@ Human Resources
 | Role | Person Assigned |	Specific Responsibilities or Comments |
 |---|---|---|
 | Test Manager | Felix | Manages the testing of Plandora. <br><br> Responsibilities include: <br> planning and logistic, agree mission, identify motivators, acquire appropriate resources, present management reporting, advocate the interests of test, evaluate effectiveness of test effort |
-| Test Designer | Felix | Defines the technical approach to the implementation of the test effort. <br> Responsibilities include:<br> define test approach<br> define test automation architecture<br> verify test techniques<br> define testability elements<br> structure test implementation|
-| Tester | Felix, Henry, Vanessa |	Implements and executes the tests.<br> Responsibilities include:<br> implement tests and test suites<br> execute test suites<br> log results<br> analyze and recover from test failures<br> document incidents|
-| Test System Administrator | Henry | Ensures test environment and assets are managed and maintained.<br> Responsibilities include:<br> 	administer test management system<br> install and support access to, and recovery of, test environment configurations and test labs | 
+| Test Designer | Felix | Defines the technical approach to the implementation of the tests for Plandora. <br><br> Responsibilities include: <br> define test approach, the test automation architecture, verify test techniques, define testability elements and structure test implementation|
+| Tester | Felix, Henry, Vanessa |	Every team member implements and executes the tests.<br><br> Responsibilities include:<br> implement tests and test suites, execute test suites, log results, analyze and recover from test failures, document incidents|
+| Test System Administrator | Henry | Ensures test environment and assets are managed and maintained (e.g. GitHub CI) | 
 | Database Administrator, Database Manager | **tbd** | **tbd** |
-| Implementer | Felix, Vanessa | Implements the tests requirements as defined by the designer |
+| Implementer | Felix, Vanessa | Implements the required test components.|
 
 
 ### 10.2	Staffing and Training Needs
