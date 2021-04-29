@@ -16,7 +16,7 @@
 - [Outline of Planned Tests](#4outline-of-planned-tests)
     - [Outline of Test Inclusions](#41outline-of-test-inclusions)
     - [Outline of other candidates for Potential Inclusion](#42outline-of-other-candidates-for-potential-inclusion)
-    - [Outline of Test Exclusions](#43outline-of-exclusions)
+    - [Outline of Test Exclusions](#43-outline-of-test-exclusions)
 - [Test Approach](#5test-approach)
     - [Initital Test-Idea Catalogs and Other Reference Sources](#51-initital-test-idea-catalogs-and-other-reference-sources)
     - [Testing Techniques and Types](#52testing-techniques-and-types)
