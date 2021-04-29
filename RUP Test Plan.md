@@ -122,32 +122,20 @@ n/a
 ## 5.	Test Approach
 ### 5.1 Initital Test-Idea Catalogs and Other Reference Sources
 **n/a**
+
 ### 5.2	Testing Techniques and Types
+
 #### 5.2.1 Data and Database Integrity Testing
-|| |
-|---|---|
-|Technique Objective  	| The backend should be started. Several request should be made to determine the correct functionality of the backend. |
-|Technique 		|  Data should be mocked. A productive capable environment (similar database technology) should be used. |
-|Oracles 		| Endpoints return the correct and expected data as well as the expected response codes. |
-|Required Tools 	| SpringBoot-Test (Unit testing & E2E testing framework), Postman (Newman) |
-|Success Criteria	| expected responses, passing tests |
-|Special Considerations	|     -          |
+**n/a**
 
 #### 5.2.2 Function Testing
-|| |
-|---|---|
-|Technique Objective  	| Every interaction with the frontend should function as intended. |
-|Technique 		| Unit Tests and Gherkin tests should test the technology. For testing the frontend we use a mock backend.  |
-|Oracles 		| (Fake-)Backend returns expected data, information is shown as expected |
-|Required Tools 	| Gherkin, Chai, Mocha |
-|Success Criteria	| Expected behavior and passing tests |
-|Special Considerations	|     -          |
+
 
 #### 5.2.3 Business Cycle Testing
 **n/a**
 
 #### 5.2.4 User Interface Testing
-**n/a**
+
 
 #### 5.2.5 Performance Profiling 
 **n/a**
