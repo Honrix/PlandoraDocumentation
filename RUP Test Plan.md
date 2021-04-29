@@ -1,5 +1,51 @@
 # Test plan
 
+# Table of Contents
+
+- [Introduction](#1-introduction)
+    - [Purpose](#11-purpose)
+    - [Scope](#12-scope)
+    - [Intended Audience](#13-intended-audience)
+    - [Document Terminology and Acronyms](#14-document-terminology-and-acronyms)
+    - [References](#15-references)
+- [Evaluation Mission and Test Motivation](#2-evaluation-mission-and-test-motivation)
+    - [Background](#21-background)
+    - [Evaluation Mission](#22-evaluation-mission)
+    - [Test Motivators](#23-test-motivators)
+- [Target Test Items](#3-target-test-items)
+- [Outline of Planned Tests](#4-outline-of-planned-tests)
+    - [Outline of Test Inclusions](#41-outline-of-test-inclusions)
+    - [Outline of other candidates for Potential Inclusion](#42--outline-of-other-candidates-for-potential-inclusion)
+    - [Outline of Test Exclusions](#43-outline-of-exclusions)
+- [Test Approach](#5-test-approach)
+    - [Testings Techniques and Types](#51-testing-techniques-and-types)
+        - [Unit Testing](#511-unit-testing)
+        - [User Interface Testing](#512-user-interface-testing)
+        - [Smoke Testing](#513-smoke-testing)
+- [Entry and Exit Testing](#6-entry-and-exit-criteria)
+    - [Test Plan](#61-test-plan)
+        - [Test Plan Entry Criteria](#611-test-plan-entry-criteria)
+        - [Test Plan Exit Criteria](#612-test-plan-exit-criteria)
+- [Deliverables](#7-deliverables)
+    - [Test Evaluation Summaries](#71-test-evaluation-summaries)
+    - [Reporting on Test Coverage](#72-reporting-on-test-coverage)
+    - [Perceived Quality Reports](#73-perceived-quality-report)
+    - [Incident Logs and Change Requests](#74-incident-logs-and-change-requests)
+    - [Smoke Test Suite and Supporting Test Scripts](#75-smoke-test-suite-and-supporting-test-scripts)
+- [Testing Workflow](#8-testing-workflow)
+- [Environmental Needs](#9-environmental-needs)
+    - [Base System Hardware](#91-base-system-hardware)
+    - [Base Software Elements in the Test Environment](#92-base-software-elements-in-the-test-environment)
+    - [Productivity and Support Tools](#93-productivity-and-support-tools)
+    - [Technology Stack](#94-technology-stack)
+- [Responsibilities, Staffing, and Training Needs](#10-responsibilities-staffing-and-training-needs)
+    - [People and Roles](#101-people-and-roles)
+    - [Staffing and Training Needs](#102-staffing-and-training-needs)
+- [Iteration Milestones](#11-iteration-milestones)
+- [Risks, Dependencies, Assumptions, and Constraints](#12-risks-dependencies-assumptions-and-constraints)
+- [Metrics](#13-metrics)
+
+
 ## 1.	Introduction
 ### 1.1	Purpose
 The purpose of the Iteration Test Plan is to gather all the information necessary to plan and control the test effort for the given iteration. It describes the approach to the testing of the software and is the top-level plan generated and used by the managers to direct the test effort.
