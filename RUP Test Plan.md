@@ -158,7 +158,12 @@ Easy tests should be tested for functionality. Due to timing constraints,the qua
 **n/a**
 
 ## 8.	Testing Workflow
-Developers should execute tests locally before pushing source code. When pushing to branches, the tests are executed automatically.
+While implementing code, we are continuously implementing tests (UI-Tests, Unit Tests and Feature Tests). These tests are automaticly deployed by a GitHub CI-Tool which ensures to schedule testing and review older tests.
+Furthermore, before pushing to master we are manually testing the implemented code on real devices.
+
+The following diagram shows the testing workflow:
+![Testing Workflow](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/Testing%20Workflow.png)
+
 ## 9.	Environmental Needs
 This section presents the non-human resources required for the Test Plan.
 ### 9.1	Base System Hardware
