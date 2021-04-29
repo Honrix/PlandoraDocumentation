@@ -27,23 +27,23 @@
         - [Test Plan Entry Criteria](#611test-plan-entry-criteria)
         - [Test Plan Exit Criteria](#612test-plan-exit-criteria)
 - [Deliverables](#7deliverables)
-    - [Test Evaluation Summaries](#71-test-evaluation-summaries)
-    - [Reporting on Test Coverage](#72-reporting-on-test-coverage)
-    - [Perceived Quality Reports](#73-perceived-quality-report)
-    - [Incident Logs and Change Requests](#74-incident-logs-and-change-requests)
-    - [Smoke Test Suite and Supporting Test Scripts](#75-smoke-test-suite-and-supporting-test-scripts)
-- [Testing Workflow](#8-testing-workflow)
-- [Environmental Needs](#9-environmental-needs)
-    - [Base System Hardware](#91-base-system-hardware)
-    - [Base Software Elements in the Test Environment](#92-base-software-elements-in-the-test-environment)
-    - [Productivity and Support Tools](#93-productivity-and-support-tools)
-    - [Technology Stack](#94-technology-stack)
-- [Responsibilities, Staffing, and Training Needs](#10-responsibilities-staffing-and-training-needs)
-    - [People and Roles](#101-people-and-roles)
-    - [Staffing and Training Needs](#102-staffing-and-training-needs)
-- [Iteration Milestones](#11-iteration-milestones)
-- [Risks, Dependencies, Assumptions, and Constraints](#12-risks-dependencies-assumptions-and-constraints)
-- [Metrics](#13-metrics)
+    - [Test Evaluation Summaries](#71test-evaluation-summaries)
+    - [Reporting on Test Coverage](#72reporting-on-test-coverage)
+    - [Perceived Quality Reports](#73perceived-quality-report)
+    - [Incident Logs and Change Requests](#74incident-logs-and-change-requests)
+    - [Smoke Test Suite and Supporting Test Scripts](#75smoke-test-suite-and-supporting-test-scripts)
+- [Testing Workflow](#8testing-workflow)
+- [Environmental Needs](#9environmental-needs)
+    - [Base System Hardware](#91base-system-hardware)
+    - [Base Software Elements in the Test Environment](#92base-software-elements-in-the-test-environment)
+    - [Productivity and Support Tools](#93productivity-and-support-tools)
+    - [Technology Stack](#94technology-stack)
+- [Responsibilities, Staffing, and Training Needs](#10responsibilities-staffing-and-training-needs)
+    - [People and Roles](#101people-and-roles)
+    - [Staffing and Training Needs](#102staffing-and-training-needs)
+- [Iteration Milestones](#11iteration-milestones)
+- [Risks, Dependencies, Assumptions, and Constraints](#12risks-dependencies-assumptions-and-constraints)
+- [Metrics](#13metrics)
 
 
 ## 1.	Introduction
@@ -68,7 +68,7 @@ This document is intended for internal use primarily. Further, this document wil
 - **n/a**	not applicable
 - **tbd**	to be done
 
-### 1.5	 References
+### 1.5	References
 | Reference        | 
 | ------------- |
 | [Blog](https://plandora51897980.wordpress.com/) |
