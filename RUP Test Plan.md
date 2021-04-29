@@ -256,7 +256,7 @@ This table shows the staffing assumptions for the test effort.
 Human Resources
 
 
-| Role | Minimum Resources Recommended (number of full-time roles allocated) |	Specific Responsibilities or Comments |
+| Role | Person Assigned |	Specific Responsibilities or Comments |
 |---|---|---|
 | Test Manager | 1 | Provides management oversight. <br> Responsibilities include: <br> planning and logistics <br> agree mission <br> identify motivators<br> acquire appropriate resources<br> present management reporting<br> advocate the interests of test<br>evaluate effectiveness of test effort |
 | Test Designer | 2 | Defines the technical approach to the implementation of the test effort. <br> Responsibilities include:<br> define test approach<br> define test automation architecture<br> verify test techniques<br> define testability elements<br> structure test implementation|
@@ -264,6 +264,7 @@ Human Resources
 | Test System Administrator | 1 | Ensures test environment and assets are managed and maintained.<br> Responsibilities include:<br> 	administer test management system<br> install and support access to, and recovery of, test environment configurations and test labs | 
 | Database Administrator, Database Manager | 1 | Ensures test data (database) environment and assets are managed and maintained.<br> Responsibilities include:<br> support the administration of test data and test beds (database). |
 | Implementer | 4 | Implements and unit tests the test classes and test packages.<br> Responsibilities include:<br> creates the test components required to support testability requirements as defined by the designer |
+
 
 ### 10.2	Staffing and Training Needs
 **n/a**
