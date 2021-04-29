@@ -2,9 +2,9 @@
 
 # Table of Contents
 
-- [Introduction](#1-introduction)
-    - [Purpose](#11-purpose)
-    - [Scope](#12-scope)
+- [Introduction](#1introduction)
+    - [Purpose](#11purpose)
+    - [Scope](#12scope)
     - [Intended Audience](#13-intended-audience)
     - [Document Terminology and Acronyms](#14-document-terminology-and-acronyms)
     - [References](#15-references)
