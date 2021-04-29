@@ -14,7 +14,7 @@
     - [Test Motivators](#23test-motivators)
 - [Target Test Items](#3target-test-items)
 - [Outline of Planned Tests](#4outline-of-planned-tests)
-    - [Outline of Test Inclusions](43-outline-of-test-exclusions)
+    - [Outline of Test Inclusions](#41outline-of-test-inclusions)
     - [Outline of other candidates for Potential Inclusion](#42outline-of-other-candidates-for-potential-inclusion)
     - [Outline of Test Exclusions](#43outline-of-exclusions)
 - [Test Approach](#5test-approach)
