@@ -205,7 +205,7 @@ n/a
 GitLab pipeline tests
 
 #### 7.6.2	Additional Automated Functional Test Scripts
-The Test Scripts can be found here: https://github.com/nf3lix/Plandora/tree/master/app/src/androidTest/java/com/plandora
+The Test Scripts can be found [here](https://github.com/nf3lix/Plandora/tree/master/app/src/androidTest/java/com/plandora)
 
 #### 7.6.3	Test Guidelines
 Easy tests should be tested for functionality. Due to timing constraints,the quality of a test might suffer. E.G. not all possible inputs can be tested.
