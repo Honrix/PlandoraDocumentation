@@ -262,8 +262,8 @@ Human Resources
 | Test Designer | Felix | Defines the technical approach to the implementation of the test effort. <br> Responsibilities include:<br> define test approach<br> define test automation architecture<br> verify test techniques<br> define testability elements<br> structure test implementation|
 | Tester | Felix, Henry, Vanessa |	Implements and executes the tests.<br> Responsibilities include:<br> implement tests and test suites<br> execute test suites<br> log results<br> analyze and recover from test failures<br> document incidents|
 | Test System Administrator | Henry | Ensures test environment and assets are managed and maintained.<br> Responsibilities include:<br> 	administer test management system<br> install and support access to, and recovery of, test environment configurations and test labs | 
-| Database Administrator, Database Manager | Felix | Ensures test data (database) environment and assets are managed and maintained.<br> Responsibilities include:<br> support the administration of test data and test beds (database). |
-| Implementer | Felix, Vanessa | Implements and unit tests the test classes and test packages.<br> Responsibilities include:<br> creates the test components required to support testability requirements as defined by the designer |
+| Database Administrator, Database Manager | **tbd** | **tbd** |
+| Implementer | Felix, Vanessa | Implements the tests requirements as defined by the designer |
 
 
 ### 10.2	Staffing and Training Needs
