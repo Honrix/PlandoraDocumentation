@@ -101,33 +101,20 @@ This document is intended for internal use primarily. Further, this document wil
             
 ## 2.	Evaluation Mission and Test Motivation
 ### 2.1	Background
-By testing source code, we ensure our application to run smoothly. The goal is to make sure, that our application does not run into any unexpected errors.
+
 ### 2.2	Evaluation Mission
-The mission of this test plan is to prevent errors in production and ensure an outstanding software quality.
+
 ### 2.3	Test Motivators
-Our testing is motivated by 
-- quality risks 
-- technical risks, 
-- use cases 
-- functional requirements
 
 ## 3.	Target Test Items
-The listing below identifies those test items (software, hardware, and supporting product elements) that have been identified as targets for testing. 
-This list represents what items will be tested. 
-
-Items for Testing:
-- SpringBoot-Web Backend
-- Angular Frontend
 
 ## 4.	Outline of Planned Tests
 ### 4.1	Outline of Test Inclusions
-Testing the backend with unit tests and some e2e tests. 
-End2End testing the forntend application.
+
 ### 4.2	Outline of Other Candidates for Potential Inclusion
-Stress Testing the application and its servers.
-Findung security holes.
+
 ### 4.3 Outline of Test Exclusions
-n/a
+
 
 ## 5.	Test Approach
 ### 5.1 Initital Test-Idea Catalogs and Other Reference Sources
@@ -183,16 +170,8 @@ n/a
 
 ## 7.	Deliverables
 ### 7.1	Test Evaluation Summaries
-GitLab Actions will provide console log which is printed by the appropriate testing frameworks
-### 7.2	Reporting on Test Coverage
-Coverage returned by Istanbul
 
-Frontend:
-![](https://gitlab.com/kzynn/partyplayer-ui/badges/master/coverage.svg)
-![](https://gitlab.com/kzynn/partyplayer-ui/badges/master/pipeline.svg)
-Backend:
-![](https://gitlab.com/kzynn/partyplayer/badges/master/coverage.svg)
-![](https://gitlab.com/kzynn/partyplayer/badges/master/pipeline.svg)
+### 7.2	Reporting on Test Coverage
 
 ### 7.3	Perceived Quality Reports
 n/a
@@ -202,13 +181,13 @@ n/a
 n/a
 ### 7.6	Additional Work Products
 #### 7.6.1	Detailed Test Results
-GitLab pipeline tests
+
 
 #### 7.6.2	Additional Automated Functional Test Scripts
 The Test Scripts can be found [here](https://github.com/nf3lix/Plandora/tree/master/app/src/androidTest/java/com/plandora)
 
 #### 7.6.3	Test Guidelines
-Easy tests should be tested for functionality. Due to timing constraints,the quality of a test might suffer. E.G. not all possible inputs can be tested.
+
 #### 7.6.4	Traceability Matrices
 **n/a**
 
@@ -222,40 +201,18 @@ The following diagram shows the testing workflow:
 ## 9.	Environmental Needs
 This section presents the non-human resources required for the Test Plan.
 ### 9.1	Base System Hardware
-The following table sets forth the system resources for the test effort presented in this Test Plan.
-
-| Resource | Quantity | Name and Type |
-|---|---|---|
-| Production Server | 1 | API provider / Frontend provider / Database|
-| GitLab CI/CD |  | Testing, building and deploying application |
 
 ### 9.2	Base Software Elements in the Test Environment
 The following base software elements are required in the test environment for this Test Plan.
 
-| Software Element Name | Version | Type and Other Notes |
-|---|---|---|
-| Linux | latest | Operating System |
-| NodeJS | latest | Famework |
-| MySQL | latest | Database |
-
 ### 9.3	Productivity and Support Tools
 The following tools will be employed to support the test process for this Test Plan.
-
-| Tool Category or Type | Tool Brand Name                              |
-|-----------------------|----------------------------------------------|
-| Code Hoster           | [gitlab.com](https://gitlap.com/partyplayer/) |
-| CI Service            |  [gitlab.com](https://gitlap.com/partyplayer/) |
 
 ### 9.4	Test Environment Configurations
 n/a 
 
 ## 10.	Responsibilities, Staffing, and Training Needs
 ### 10.1	People and Roles
-This table shows the staffing assumptions for the test effort.
-
-Human Resources
-
-
 | Role | Person Assigned |	Specific Responsibilities or Comments |
 |---|---|---|
 | Test Manager | Felix | Manages the testing of Plandora. <br><br> Responsibilities include: <br> planning and logistic, agree mission, identify motivators, acquire appropriate resources, present management reporting, advocate the interests of test, evaluate effectiveness of test effort |
@@ -268,8 +225,8 @@ Human Resources
 
 ### 10.2	Staffing and Training Needs
 **n/a**
-## 11.	Iteration Milestones
 
+## 11.	Iteration Milestones
 | Milestone | Planned Start Date | Actual Start Date | Planned End Date | Actual End Date |
 |---|---|---|---|---|
 | Run Cucumber Tests | 27.10.2020 | 27.10.2020 | 07.12.2020 | 01.12.2020   |
