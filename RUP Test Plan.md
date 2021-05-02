@@ -230,15 +230,27 @@ The following table sets forth the system resources for the test effort presente
 
 | Resource | Quantity | Name and Type |
 |---|---|---|
-| CI/CD server | 1 |  |
-| local test machine | 1 |  |
-| Android test device | 1 |  |
+| CI/CD server | 1 | Travis CI Cloud |
+| local test machine | 3 | Computer (Felix, Henry, Vanessa) |
+| Android test device | 3 | Android Device (Felix, Henry, Vanessa) |
 
 ### 9.2	Base Software Elements in the Test Environment
 The following base software elements are required in the test environment for this Test Plan.
+| Software Element Name | Type |
+|---|---|
+| Android Studio | Test Runner / IDE |
+| IntelliJ | Test Runner / IDE |
+| Cucumber | human readable test definitions |
+
 
 ### 9.3	Productivity and Support Tools
 The following tools will be employed to support the test process for this Test Plan.
+| Tool Category or Type | Tool Brand Name |
+|---|---|
+| Repository | 	[github.com](https://github.com/) |
+| Test Coverage Monitor	| [codacy](https://app.codacy.com/) |
+| CI/CD Service	| [Travis CI](https://travis-ci.org/) |
+| Metrics Tool | [codacy](https://app.codacy.com/) |
 
 ### 9.4	Test Environment Configurations
 n/a 
