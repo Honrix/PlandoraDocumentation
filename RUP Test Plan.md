@@ -226,6 +226,13 @@ The following diagram shows the testing workflow:
 ## 9.	Environmental Needs
 This section presents the non-human resources required for the Test Plan.
 ### 9.1	Base System Hardware
+The following table sets forth the system resources for the test effort presented in this Test Plan.
+
+| Resource | Quantity | Name and Type |
+|---|---|---|
+| CI/CD server | 1 |  |
+| local test machine | 1 |  |
+| Android test device | 1 |  |
 
 ### 9.2	Base Software Elements in the Test Environment
 The following base software elements are required in the test environment for this Test Plan.
