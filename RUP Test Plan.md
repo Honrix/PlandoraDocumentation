@@ -197,6 +197,7 @@ Instrumented Unit Tests
 ### 7.1	Test Evaluation Summaries
 
 ### 7.2	Reporting on Test Coverage
+Plandora is using [Codacy](https://www.codacy.com/) for reporting our test coverage.
 
 ### 7.3	Perceived Quality Reports
 n/a
