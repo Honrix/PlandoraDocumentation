@@ -17,6 +17,7 @@
 
 ## 1. Specification - Add Gift Idea
 ### 1.1 Brief Description
+The user is able to add gift ideas to an event.
 
 ## 2. Flow of Events
 This use case is part of a CRUD, which means that it is about creating, reading, updating and deleting entries. 
