@@ -18,13 +18,13 @@
 ### 1.1 Brief Description
 In the main activity, the user is able to search and filter for events. Therefore he is asked to enter a filter condition, e.g. name, date or category.
 * Available categories are: Birthday, Holiday, Anniversary, Others
+
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
-![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Search%20For%20Events.png)
+![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/09_Search%20for%20Events/Search%20For%20Events.png)
 
 #### 2.1.2 Mockup
-![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Search%20for%20Events.png)
-
+![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Mockups/Search%20for%20Events.png)
 
 #### 2.1.3 Narrative
 ```
@@ -49,14 +49,20 @@ Feature: Search For Events
     Then the user lands on Dashboard
 ```
 ### 2.2 Alternative Flows
+
 ## 3. Special requirements
+
 ## 4. Preconditions
 ### 4.1 Signed in
 To search for events, the user must be signed in. 
+
 ## 5. Postconditions
 ### 5.1 Searched events are displayed
 After searching for events the user is navigated back to the dashboard with normal and unfiltered view. 
+
 ## 6. Extension Points
+
 ## 7. Function Points
-![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Show_Event_Details_FP.PNG)
+![Function Points]()
+
 Function Points: 59.28
