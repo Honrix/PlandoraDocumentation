@@ -17,6 +17,7 @@
 
 ## 1. Specification - Handle pending invitations
 ### 1.1 Brief Description
+The user is able to handle pending invitations in the notification/invitation section of the app. These invitations are received when the use is invited (added as an attendee in another event) by another user. Pending invitations can be either accepted or declined.
 
 ## 2. Flow of Events
 ### 2.1 Basic Flow
