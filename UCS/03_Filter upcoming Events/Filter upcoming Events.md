@@ -23,11 +23,11 @@ By default the dashboard shows all upcoming events sorted in ascending order con
 
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
-![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Filter%20upcoming%20Events.png)
+![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/03_Filter%20upcoming%20Events/Filter%20upcoming%20Events.png)
 
-![Feature File](https://github.com/nf3lix/Plandora/blob/master/app/src/androidTest/java/com/plandora/steps/filter_upcoming_events.feature)
+[Feature File](https://github.com/nf3lix/Plandora/blob/master/app/src/androidTest/java/com/plandora/steps/filter_upcoming_events.feature)
 #### 2.1.2 Mockup
-![Filter Events Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Filter_View.png)
+![Filter Events Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Mockups/Filter_View.png)
 #### 2.1.3 Narrative
 ```
 Feature: Filter Upcoming Events
@@ -65,5 +65,6 @@ After applying the filter, all important events a shown in the dashboard. If the
 ## 6. Extension Points
 tbd
 ## 7. Function Points
-![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Filter_Upcoming_Events_FP.PNG)
+![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Function%20Points/Filter_Upcoming_Events_FP.PNG)
+
 Function Points: 22.80
