@@ -59,7 +59,11 @@ Feature: Create Event
     Then the data already entered is stored as draft
 ```
 ### 2.2 Alternative Flows
+#### 2.2.1 Aborting the process
+At any step of this flow, the user is able to abort the process.
+
 ## 3. Special requirements
+
 ## 4. Preconditions
 ### 4.1 Signed in
 To create a new event, the user must be signed in. 
