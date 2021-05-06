@@ -25,10 +25,11 @@ On the other hand the user can login to an existing account with its password an
 ## 2. Flow of Events
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
-![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Sign_in_Sign_up.png)
+![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/02_Sign%20In%20Sign%20Up/Sign_in_Sign_up.png)
+
 #### 2.1.2 Mockup
-![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Sign%20In.png)
-![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Sign%20Up.png)
+![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Mockup/Sign%20In.png)
+![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Mockup/Sign%20Up.png)
 
 ### 2.2 Alternative Flows
 #### 2.2.1 Aborting the process
