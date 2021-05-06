@@ -21,10 +21,10 @@ The user is able to receive notifications as well inside the app as on the smart
 ## 2. Flow of Events
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
-![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Get%20Notifications.png)
+![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/07_Notifications/Get%20Notifications.png)
 
 #### 2.1.2 Mockup
-![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Notifications.png)
+![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Mockups/Notifications.png)
 
 #### 2.1.3 Narrative
 
@@ -44,6 +44,6 @@ The sended notification is available for the user and can be view on the notific
 ## 6. Extension Points
 tbd
 ## 7. Function Points
-![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Get_Notifications_FP.PNG)
+![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Function%20Points/Get_Notifications_FP.PNG)
 
 Function Points: 31.36
