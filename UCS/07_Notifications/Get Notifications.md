@@ -16,7 +16,7 @@
 
 ## 1. Specification - Handle pending invitations
 ### 1.1 Brief Description
-The user is able to receive notifications as well inside the app as on the smarthpone outside of the app. These notifications are giving informations to the user.
+The user is able to receive notifications as well inside the app as on the smarthpone outside of the app. These notifications are giving information to the user.
 
 ## 2. Flow of Events
 ### 2.1 Basic Flow
