@@ -25,13 +25,13 @@ This use case is part of a CRUD, which means that it is about creating, reading,
 A more detailed diagram is listed in [2.1.1](#211-activity-diagram).
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
-![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Show%20Event%20Details.png)
+![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/04_Show%20Event%20Details/Show%20Event%20Details.png)
 
-![Feature File](https://github.com/nf3lix/Plandora/blob/master/app/src/androidTest/java/com/plandora/steps/view_event_details.feature)
+[Feature File](https://github.com/nf3lix/Plandora/blob/master/app/src/androidTest/java/com/plandora/steps/view_event_details.feature)
 #### 2.1.2 Mockup
-The detail view is almost identical to "[Create Event](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/Create%20Event.md)" view (see: [Mockup](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/mockup/Create%20Event.PNG)).
+The detail view is almost identical to "[Create Event](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/01_Create%20Event/Create%20Event.md)" view (see: [Mockup](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/Mockups/Create%20Event.PNG)).
 
-![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Event_Details.png)
+![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Mockups/Event_Details.png)
 #### 2.1.3 Narrative
 ```
 Feature: View Event Details
