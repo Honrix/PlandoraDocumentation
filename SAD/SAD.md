@@ -70,7 +70,7 @@ This section deals with the most important logical components
 The following image shows which classes belong to which component. 
 ![UML_Overview](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UML/UML%20overview.PNG)
 The whole class diagram
-![UML](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/Plandora%20Class%20Diagram.png)
+![UML](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/SAD/Plandora%20Class%20Diagram.png)
 
 ## 6. Process View
 (n/a)
@@ -91,7 +91,7 @@ The app runs on the user's device and the backend is provided by an external ser
 ## 9. Data View
 As we use Firestore, our database will be NoSQL. That means that any user and event (such as an upcoming birthday) is stored in a separate document. That’s why it’s not convenient to create a meaningful ER Diagram and why we created exemplary JSON documents.
 ![DB_Schema](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Database%20Schema.png)
-![DB_Schema_json](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/DB_Schema_json.PNG)
+![DB_Schema_json](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/SAD/DB_Schema_json.PNG)
 
 ## 10. Size and Performance
 tbd / (n/a)
