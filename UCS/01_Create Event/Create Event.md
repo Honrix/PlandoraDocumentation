@@ -26,7 +26,7 @@ This use case is part of a CRUD, which means that it is about creating, reading,
 A more detailed diagram is listed in [2.1.1](#211-activity-diagram).
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
-![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/01_Create Event/Create%20Event.png)
+![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/01_Create%20Event/Create%20Event.png)
 
 ![Feature File](https://github.com/nf3lix/Plandora/blob/master/app/src/androidTest/java/com/plandora/steps/create_event.feature)
 #### 2.1.2 Mockup
