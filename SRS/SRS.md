@@ -78,7 +78,7 @@ The following chapter contains our project vision and points out important use c
 By creating the Android app Plandora, we want to enable our users to save the dates of birthdays, anniversaries and other private events. By entering annual or one-time events the users will be remembered in time and can conveniently access them from their smartphone. In this way, we want to prevent our users from missing important events and having unpleasant situations. Moreover, collecting ideas for a gift or discussing them with friends who use the app are desirable features. [Read more about our vision](https://plandora51897980.wordpress.com/2020/09/29/example-post-3/).
 ### 2.2 Use Case Diagram
 This diagram gives an overview over of possible use cases from user's perspective.
-![Use Case Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCD_SE2.png)
+![Use Case Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCD/UCD_SE2.png)
 ### 2.3 Product perspective
 #### 2.3.1 User characteristics
 Potential users are all people being in possession of an Android smartphone, especially those who tend to forget important days or just want to remember their gift ideas they have had.
