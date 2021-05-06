@@ -21,10 +21,10 @@
 ## 2. Flow of Events
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
-![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Handle%20pending%20invitations.png)
+![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/08_Handle%20Pending%20Invitations/Handle%20pending%20invitations.png)
 
 #### 2.1.2 Mockup
-![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Pending%20Invitations.png)
+![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Mockups/Pending%20Invitations.png)
 
 #### 2.1.3 Narrative
 
@@ -51,6 +51,6 @@ In both cases, the pending invitations is removed from the Notifications Dialog.
 ## 6. Extension Points
 tbd
 ## 7. Function Points
-![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Pending_Invitations_FP.png)
+![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Function%20Points/Pending_Invitations_FP.png)
 
 Function Points: 44.1
