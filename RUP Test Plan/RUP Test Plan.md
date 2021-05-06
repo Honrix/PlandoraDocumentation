@@ -222,7 +222,7 @@ While implementing code, we are continuously implementing tests (UI-Tests, Unit 
 Furthermore, before pushing to master we are manually testing the implemented code on real devices.
 
 The following diagram shows the testing workflow:
-![Testing Workflow](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/Testing%20Workflow.png)
+![Testing Workflow](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/RUP%20Test%20Plan/Testing%20Workflow.png)
 
 ## 9.	Environmental Needs
 This section presents the non-human resources required for the Test Plan.
