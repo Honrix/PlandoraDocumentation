@@ -54,7 +54,7 @@ Source: https://www.methodpark.de/blog/model-view-controller-mvc/
 Our goal is to apply the MVC pattern in our app which is mostly given in Android per default. In addition, we try to stick to the Android App Quality Guidelines (https://developer.android.com/docs/quality-guidelines)  and the Material Design Guidelines (https://material.io/design) as close as possible
 
 ## 4. Use-Case View
-![UCD](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCD_SE2.png)
+![UCD](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCD/UCD_SE2.png)
 
 ## 5. Logical View
 ### 5.1 Overview
