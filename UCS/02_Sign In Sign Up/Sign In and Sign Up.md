@@ -34,8 +34,10 @@ On the other hand the user can login to an existing account with its password an
 ### 2.2 Alternative Flows
 #### 2.2.1 Aborting the process
 At any step of this flow, the user is able to abort the process. This can either be done by closing the app or by closing the SignUpActivity premutarly. This will not affect further trys to sign in/sign up. 
+
 ## 3. Special requirements
 Since we're going to use firebase, we first have to set up an authentication method which probably will be "Email address/password" (another sign-in methods available in firebase is the authentication with Google, Facebook or GitHub). Since we want to collect additional data about the user (a unique and a displayed username) we will also create a separate document for every user in Cloud Firestore.
+
 ## 4. Preconditions
 ### 4.1 App has launched
 The app has launched (SignInActivity is shown to the user)
@@ -46,8 +48,10 @@ The user is not signed in yet. That's either because he wants to login to an exi
 After either having created a new account or having specified the correct login credentials, the user is signed in to the app.
 ### 5.1 Dashboard is shown
 The user is navigated to the MainActivity which per default shows the dashboard including the upcoming events. 
+
 ## 6. Extension Points
 tbd
+
 ## 7. Function Points
 ![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Function%20Points/Sign_in_Sign_up_FP.PNG)
 
