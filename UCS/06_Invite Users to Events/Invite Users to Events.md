@@ -19,16 +19,16 @@
 ### 1.1 Brief Description
 The owner of an event is able to invite other Plandora users, who are allowed to display the event details and to share their gift ideas. 
 Therefore the owner is asked to specify the unique username or email of the corresponding user.
-The perspective of the invited user is discribed in [UC: Handle pending Invitations](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/Handle%20pending%20invitations.md).
+The perspective of the invited user is discribed in [UC: Handle pending Invitations](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/08_Handle%20Pending%20Invitations/Handle%20pending%20invitations.md).
 
 ## 2. Flow of Events
 
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
-![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Invite%20User.png)
+![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/06_Invite%20Users%20to%20Events/Invite%20User.png)
 
 #### 2.1.2 Mockup
-![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Invite%20Users.png)
+![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Mockups/Invite%20Users.png)
 
 #### 2.1.3 Narrative
 ```
@@ -74,12 +74,12 @@ To invite another user, you must be on the view to create a new event or to see 
 
 ## 5. Postconditions
 ### 5.1 Gift Idea is added to event
-The invited user got an in-app notification (see [UC: Handle pending Invitations](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/Handle%20pending%20invitations.md)).
+The invited user got an in-app notification (see [UC: Handle pending Invitations](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/08_Handle%20Pending%20Invitations/Handle%20pending%20invitations.md)).
 
 ## 6. Extension Points
 tbd
 
 ## 7. Function Points
-![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Invite_user_FP.PNG)
+![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Function%20Points/Invite_user_FP.PNG)
 
 Function Points: 48.02
