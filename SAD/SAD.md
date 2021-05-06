@@ -68,7 +68,7 @@ This section deals with the most important logical components
 
 ### 5.2 Architecturally Significant Design Packages
 The following image shows which classes belong to which component. 
-![UML_Overview](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UML%20overview.PNG)
+![UML_Overview](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UML/UML%20overview.PNG)
 The whole class diagram
 ![UML](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/Plandora%20Class%20Diagram.png)
 
