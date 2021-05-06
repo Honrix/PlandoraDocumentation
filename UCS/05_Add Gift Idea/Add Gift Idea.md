@@ -24,10 +24,10 @@ This use case is part of a CRUD, which means that it is about creating, reading,
 ![CRUD](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/CRUD/Add%20Gift%20Idea%20CRUD.png)
 ### 2.1 Basic Flow
 #### 2.1.1 Activity Diagram
-![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Add%20Idea.png)
+![Activity Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/05_Add%20Gift%20Idea/Add%20Idea.png)
 
 #### 2.1.2 Mockup
-![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/mockup/Add%20Gift%20Ideas.png)
+![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Mockups/Add%20Gift%20Ideas.png)
 
 #### 2.1.3 Narrative
 
@@ -53,6 +53,6 @@ An added idea is displayed in the event details and stored in firestore.
 ## 6. Extension Points
 tbd
 ## 7. Function Points
-![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/fp/Add_Gift_Idea_FP.PNG)
+![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Function%20Points/Add_Gift_Idea_FP.PNG)
 
 Function Points: 41.16
