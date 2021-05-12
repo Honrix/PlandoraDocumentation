@@ -50,7 +50,8 @@ To add a new idea, the user must be on the view to create a new event or to see 
 An added idea is displayed in the event details and stored in firestore.
 
 ## 6. Extension Points
-tbd
+- Handling of invaid user input
+
 ## 7. Function Points
 ![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Function%20Points/Add_Gift_Idea_FP.PNG)
 
