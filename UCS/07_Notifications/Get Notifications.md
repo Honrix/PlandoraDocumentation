@@ -4,7 +4,6 @@
     - [2.1 Basic Flow](#21-basic-flow)
         - [2.1.1 Activity Diagram](#211-activity-diagram)
         - [2.1.2 Mockup](#212-mockup)
-        - [2.1.3 Narrative](#213-narrative)
     - [2.2 Alternative Flows](#21-alternative-flows)
 - [3. Special Requirements](#3-special-requirements)
 - [4. Precondition](#4-preconditions)
@@ -26,9 +25,8 @@ The user is able to receive notifications as well inside the app as on the smart
 #### 2.1.2 Mockup
 ![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Mockups/Notifications.png)
 
-#### 2.1.3 Narrative
-
 ### 2.2 Alternative Flows
+n/a
 
 ## 3. Special requirements
 n/a
@@ -42,7 +40,8 @@ To receive notifications, the user must be signed in.
 The sended notification is available for the user and can be view on the notification box of the smartphone.
 
 ## 6. Extension Points
-tbd
+n/a
+
 ## 7. Function Points
 ![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Function%20Points/Get_Notifications_FP.PNG)
 
