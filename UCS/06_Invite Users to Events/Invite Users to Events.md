@@ -57,7 +57,8 @@ Feature: Invite User to Event
 ```
 
 ### 2.2 Alternative Flows
-n/a
+#### 2.2.1 Aborting the process
+At any step of this flow, the user is able to abort the process. This can either be done by closing the app or by closing the Event View.
 
 ## 3. Special requirements
 n/a
@@ -77,7 +78,7 @@ To invite another user, you must be on the view to create a new event or to see 
 The invited user got an in-app notification (see [UC: Handle pending Invitations](https://github.com/Honrix/PlandoraDocumentation/blob/main/UCS/08_Handle%20Pending%20Invitations/Handle%20pending%20invitations.md)).
 
 ## 6. Extension Points
-tbd
+- Handling invalid user input (e.g. invitation of users that do not exist)
 
 ## 7. Function Points
 ![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Function%20Points/Invite_user_FP.PNG)
