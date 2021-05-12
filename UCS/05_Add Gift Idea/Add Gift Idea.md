@@ -4,7 +4,6 @@
     - [2.1 Basic Flow](#21-basic-flow)
         - [2.1.1 Activity Diagram](#211-activity-diagram)
         - [2.1.2 Mockup](#212-mockup)
-        - [2.1.3 Narrative](#213-narrative)
     - [2.2 Alternative Flows](#21-alternative-flows)
 - [3. Special Requirements](#3-special-requirements)
 - [4. Precondition](#4-preconditions)
@@ -29,9 +28,9 @@ This use case is part of a CRUD, which means that it is about creating, reading,
 #### 2.1.2 Mockup
 ![Mockup](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Mockups/Add%20Gift%20Ideas.png)
 
-#### 2.1.3 Narrative
-
 ### 2.2 Alternative Flows
+#### 2.2.1 Aborting the process
+At any step of this flow, the user is able to abort the process. This can either be done by closing the app or by closing the Event View.
 
 ## 3. Special requirements
 n/a
