@@ -37,8 +37,9 @@ Since the push notification should be received when an event is due in two weeks
 To receive invitations, the user must be signed in.
 
 ## 5. Postconditions
-### 5.1 Invitation is accepted or declined
-The received invitation was accepted or declined by the user. In case of an acception, said user is now an attendee of the event. Otherwise, the pending invitation is deleted and the user will no longer see the invitation.
+### 5.1 Notification is shown
+The notification is available for the user and can be seen on the notification box of the smartphone.
+
 
 ## 6. Extension Points
 n/a
