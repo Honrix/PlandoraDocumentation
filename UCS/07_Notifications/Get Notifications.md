@@ -15,7 +15,7 @@
 
 ## 1. Specification - Handle pending invitations
 ### 1.1 Brief Description
-The user is able to receive notifications as well inside the app as on the smarthpone outside of the app. These notifications are giving information to the user.
+The user is able to receive notifications either inside the app or as a push notification if the app is closed/runs in the background. These notifications are giving information about upcoming events to the user.
 
 ## 2. Flow of Events
 ### 2.1 Basic Flow
@@ -29,7 +29,8 @@ The user is able to receive notifications as well inside the app as on the smart
 n/a
 
 ## 3. Special requirements
-n/a
+As we are going to use Googles FCM (Firebase Clous Messaging), we first have to set up the connection to the FCM API in order to send/receive notifications. Therefore, we need to implement a POST Request to the FCM API as well as the handling of the received JSON Objects (Messages).
+Since the push notification should be received when an event is due in two weeks/a day, we need to set up topics to which we will send those messages. All attendees will be subscribed to the event-topic and should receive the notification.
 
 ## 4. Preconditions
 ### 4.1 User is signed in
