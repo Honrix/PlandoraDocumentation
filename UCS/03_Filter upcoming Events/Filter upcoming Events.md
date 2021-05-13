@@ -52,7 +52,7 @@ Feature: Filter Upcoming Events
 At any single step of this flow, the user is able to abort the process by clicking the back button.
 
 ## 3. Special requirements
-n/a
+We have to implement a search algorithm which updates the result instantaneously corresponding to the current user input. First we will make sure if there is a solution provided by android which is compatible with recycler views (with dditional research will be necessary). 
 
 ## 4. Preconditions
 ### 4.1 User is signed in
@@ -63,7 +63,7 @@ The dashboard including all upcoming events is shown to the user.
 ### 5.1 Result is shown
 After applying the filter, all important events a shown in the dashboard. If the process was aborted prematurely, the complete dashboard is shown
 ## 6. Extension Points
-tbd
+It is planned to filter the list for events which match the typed string pattern (regex). An optional extension is to replace this search strategy by the Levenshtein Distance method, which might be more user-friendly, but also more difficult to implement.
 ## 7. Function Points
 ![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Function%20Points/Filter_Upcoming_Events_FP.PNG)
 
