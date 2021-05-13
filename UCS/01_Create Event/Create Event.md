@@ -63,7 +63,8 @@ Feature: Create Event
 At any step of this flow, the user is able to abort the process.
 
 ## 3. Special requirements
-
+For any user interaction regarding events, we have to make sure the user is authenticated and authorized for this operation.  We will implement that using firebase and firestore.
+Every created event will be stored as a separate document in firestore.
 ## 4. Preconditions
 ### 4.1 Signed in
 To create a new event, the user must be signed in. 
@@ -75,6 +76,7 @@ After creating a new event the user is navigated back to the dashboard.
 ### 5.2 New Event was created or the process was aborted
 A new event will be visible in the dashboard. If the process was aborted, the information filled in until then are saved in the local storage as a draft.
 ## 6. Extension Points
+An optional feature is to assign events to user-defined tags.
 ## 7. Function Points
 ![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Function%20Points/Create_Event_FP.PNG)
 
