@@ -50,7 +50,9 @@ After either having created a new account or having specified the correct login 
 The user is navigated to the MainActivity which per default shows the dashboard including the upcoming events. 
 
 ## 6. Extension Points
-tbd
+optional
+- reset password (send link to email address)
+- remember user (automatically log in on known device)
 
 ## 7. Function Points
 ![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Function%20Points/Sign_in_Sign_up_FP.PNG)
