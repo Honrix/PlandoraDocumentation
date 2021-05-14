@@ -74,13 +74,13 @@ The whole class diagram
 
 In order to validate User Inputs (such as the sign up form, the create event form etc.) the Template Method Design Pattern was implemented.
 The following image shows the whole Plandora Class Diagram before the implementation of the pattern:
-![Class Diagram]()
+![Class Diagram](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/SAD/uml13052021.png)
 
 In order to make it easier to understand, the following image shows a smaller, more relevant section of the Plandora Class Diagram:
-![Section of UML]()
+![Section of UML](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/SAD/uml_withoutValidator.png)
 
 The following image shows the class diagram with the Validator:
-![Template Design Pattern]()
+![Template Design Pattern](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/SAD/uml_validator.png)
 
 ## 6. Process View
 (n/a)
