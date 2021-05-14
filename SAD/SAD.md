@@ -72,6 +72,16 @@ The following image shows which classes belong to which component.
 The whole class diagram
 ![UML](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/SAD/Plandora%20Class%20Diagram.png)
 
+In order to validate User Inputs (such as the sign up form, the create event form etc.) the Template Method Design Pattern was implemented.
+The following image shows the whole Plandora Class Diagram before the implementation of the pattern:
+![Class Diagram]()
+
+In order to make it easier to understand, the following image shows a smaller, more relevant section of the Plandora Class Diagram:
+![Section of UML]()
+
+The following image shows the class diagram with the Validator:
+![Template Design Pattern]()
+
 ## 6. Process View
 (n/a)
 
