@@ -63,6 +63,6 @@ After searching for events the user is navigated back to the dashboard with norm
 ## 6. Extension Points
 
 ## 7. Function Points
-![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Function%20Points/Search_for_Events_FP.PNG)
+![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Function%20Points/Search_for_Events_FP.png)
 
 Function Points: 59.28
