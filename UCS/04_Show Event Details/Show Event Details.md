@@ -76,4 +76,4 @@ The user is navigated to the MainActivity which per default shows the dashboard 
 ## 7. Function Points
 ![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Function%20Points/Show_Event_Details_FP.PNG)
 
-Function Points: 41.16
+Function Points: 44.08
