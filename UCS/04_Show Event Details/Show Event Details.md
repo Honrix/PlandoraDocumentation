@@ -48,14 +48,32 @@ Feature: View Event Details
     Then the user lands on Dashboard
 ```
 ### 2.2 Alternative Flows
-tbd
+#### 2.2.1 Aborting the process
+At any step of this flow, the user is able to abort the process. This can either be done by closing the app or by closing the Event View.
+
 ## 3. Special requirements
-tbd
+n/a
+
 ## 4. Preconditions
-tbd
+### 4.1 User is signed in
+To show event details, the user must be signed in.
+
+### 4.2 User is attendee of an event
+The user must be attendee or owner of the event to see its details. 
+
+### 4.3 User is on Event View
+To show event details, the user must be on the view to create a new event or to see the detailed information of an event. 
+
 ## 5. Postconditions
-tbd
+### 5.1 Event Detail View is closed
+After having shown the event details, the event detail view is closed.
+### 5.2 Dashboard is shown
+The user is navigated to the MainActivity which per default shows the dashboard including the upcoming events. 
+
 ## 6. Extension Points
-tbd
+- No Extension Points
+
 ## 7. Function Points
-tbd
+![Function Points](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/UCS/Function%20Points/Show_Event_Details_FP.PNG)
+
+Function Points: 41.16
