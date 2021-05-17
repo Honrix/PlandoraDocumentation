@@ -15,5 +15,3 @@ There won’t be any missed birthdays, any disappointment or guilty feelings!
 [YouTrack Dashboard](https://dhbw-karlsruhe.myjetbrains.com/youtrack/agiles/108-76/109-278)
 
 [Our Code](https://github.com/nf3lix/Plandora)
-
-[![codecov](https://codecov.io/gh/Honrix/PlandoraDocumentation/branch/main/graph/badge.svg?token=52PPUN2RPU)](https://codecov.io/gh/Honrix/PlandoraDocumentation)
