@@ -94,10 +94,10 @@ The app runs on the user's device and the backend is provided by an external ser
 
 ## 8. Implementation View
 ### 8.1 Overview
-(n/a)
+n/a
 
 ### 8.2 Layers
-(n/a)
+n/a
 
 ## 9. Data View
 As we use Firestore, our database will be NoSQL. That means that any user and event (such as an upcoming birthday) is stored in a separate document. That’s why it’s not convenient to create a meaningful ER Diagram and why we created exemplary JSON documents.
@@ -105,7 +105,7 @@ As we use Firestore, our database will be NoSQL. That means that any user and ev
 ![DB_Schema_json](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/SAD/DB_Schema_json.PNG)
 
 ## 10. Size and Performance
-tbd / (n/a)
+tb
 
 ## 11. Quality
 To capture our code quality and to find issues, we use the open source tool CodeFactor. This tool is capable of reviewing code in git repositories automatically.    
