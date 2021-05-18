@@ -128,7 +128,8 @@ EOL: 14.06.2021
 n/a
 
 ### 3.4 Performance
-See [SAD](https://github.com/Honrix/PlandoraDocumentation/blob/ad51559f201ff16084acbfcfcd0fea8e17974b63/SAD/SAD.md#10-size-and-performance)
+See [SAD - Size & Performance](https://github.com/Honrix/PlandoraDocumentation/blob/ad51559f201ff16084acbfcfcd0fea8e17974b63/SAD/SAD.md#10-size-and-performance)
+
 
 ### 3.5 Supportability
 tbd
