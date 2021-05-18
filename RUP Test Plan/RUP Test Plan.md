@@ -197,7 +197,8 @@ Instrumented Unit Tests
 ### 7.1	Test Evaluation Summaries
 
 ### 7.2	Reporting on Test Coverage
-Plandora is using [Codacy](https://www.codacy.com/) for reporting our test coverage.
+Plandora is using [Codecov.io](http://codecov.io//) for reporting our test coverage.
+[![codecov](https://codecov.io/gh/nf3lix/Plandora/branch/master/graph/badge.svg?token=RTC0C6H7FE)](https://codecov.io/gh/nf3lix/Plandora)
 
 ### 7.3	Perceived Quality Reports
 n/a
@@ -249,9 +250,9 @@ The following tools will be employed to support the test process for this Test P
 | Tool Category or Type | Tool Brand Name |
 |---|---|
 | Repository | 	[github.com](https://github.com/) |
-| Test Coverage Monitor	| [codacy](https://app.codacy.com/) |
+| Test Coverage Monitor	| [codecov](http://codecov.io/) |
 | CI/CD Service	| [Travis CI](https://travis-ci.org/) |
-| Metrics Tool | [codacy](https://app.codacy.com/) |
+| Metrics Tool | [codecov](http://codecov.io/) |
 
 ### 9.4	Test Environment Configurations
 n/a 
