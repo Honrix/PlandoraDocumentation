@@ -84,7 +84,7 @@ The following image shows the class diagram with the Validator (after the implem
 ![Template Design Pattern](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/SAD/uml_validator.png)
 
 ## 6. Process View
-(n/a)
+n/a
 
 ## 7. Deployment View
 The app runs on the user's device and the backend is provided by an external service (Google Firebase). We frequently test our app on physical devices. The device with the lowest specs is a Huawei P8 Lite (Android 6, 8x1.2 GHz, 2GB RAM). 
