@@ -198,6 +198,7 @@ Instrumented Unit Tests
 
 ### 7.2	Reporting on Test Coverage
 Plandora is using [Codecov.io](http://codecov.io//) for reporting our test coverage.
+
 [![codecov](https://codecov.io/gh/nf3lix/Plandora/branch/master/graph/badge.svg?token=RTC0C6H7FE)](https://codecov.io/gh/nf3lix/Plandora)
 
 ### 7.3	Perceived Quality Reports
