@@ -101,12 +101,26 @@ This document is intended for internal use primarily. Further, this document wil
             
 ## 2.	Evaluation Mission and Test Motivation
 ### 2.1	Background
+To ensure that the Plandora app runs smoothly, the code is tested regularly. In this context, any unexpected errors should be detected and fixed.
+The goal is to verify that the Plandora app runs correctly.
 
 ### 2.2	Evaluation Mission
+By testing the app, any errors and unexpected behaviour should be eliminated.
 
 ### 2.3	Test Motivators
+The tests are motivated by:
+- Risks (technical, qualitative) that should be reduced
+- UCs that need to be implemented
+- Refactoring (ensure that the code runs correctly afterwards)
+- Reduce (unexpected) errors
+- Optimize UI
 
 ## 3.	Target Test Items
+Items that should be tested:
+- Logic of the app
+- Processes in the app
+- Logic (dependent on devices)
+- UI
 
 ## 4.	Outline of Planned Tests
 ### 4.1	Outline of Test Inclusions
