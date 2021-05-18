@@ -124,10 +124,15 @@ Items that should be tested:
 
 ## 4.	Outline of Planned Tests
 ### 4.1	Outline of Test Inclusions
+- Unit Testing
+- Instrumented Unit Testing
+- User Interface Testing
 
 ### 4.2	Outline of Other Candidates for Potential Inclusion
+- Load/Stress/Volume Testing
 
 ### 4.3 Outline of Test Exclusions
+- Security and Access Control Testing
 
 
 ## 5.	Test Approach
