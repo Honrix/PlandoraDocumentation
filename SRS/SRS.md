@@ -130,33 +130,37 @@ n/a
 ### 3.4 Performance
 See [SAD - Size & Performance](https://github.com/Honrix/PlandoraDocumentation/blob/ad51559f201ff16084acbfcfcd0fea8e17974b63/SAD/SAD.md#10-size-and-performance)
 
-
 ### 3.5 Supportability
-tbd
+n/a
+
 ### 3.6 Design Constraints
 - IDE: [Android Studio](https://developer.android.com/studio?hl=de)
 - Programming Language: [Kotlin](https://kotlinlang.org/)
 - Versioning: [Git/GitHub](https://github.com/nf3lix/Plandora)
 - Project Management: [YouTrack](https://dhbw-karlsruhe.myjetbrains.com/youtrack/agiles/108-76/109-465)
+- 
 ### 3.7 Online User Documentation and Help System Requirements
 tbd
+
 ### 3.8 Purchased Components
 This Project does not require any purchased components.
+
 ### 3.9 Interfaces
 #### 3.9.1 User Interfaces
-tbd
+n/a
 #### 3.9.2 Hardware Interfaces
-tbd
+n/a
 #### 3.9.3 Software Interfaces
-tbd
+n/a
 #### 3.9.4 Communications Interfaces
-tbd
+n/a
 ### 3.10 Licensing Requirements
-tbd
+n/a
 ### 3.11 Legal, Copyright and other Notices
-tbd
+All rights reserved.
+
 ### 3.12 Applicable Standards
-tbd
+n/a
 
 ## 4. Supporting Information
-tbd
+n/a
