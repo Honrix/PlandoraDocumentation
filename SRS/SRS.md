@@ -122,11 +122,14 @@ The app includes a settings menu in which some user appearances can be configure
 The user gets a notification a couple of days before each events
 ### 3.3 Reliability
 #### 3.3.1 Publishing of Updates
-tbd
+EOL: 14.06.2021
+
 #### 3.3.2 Availability
-tbd
+n/a
+
 ### 3.4 Performance
-tbd
+See [SAD](https://github.com/Honrix/PlandoraDocumentation/)
+
 ### 3.5 Supportability
 tbd
 ### 3.6 Design Constraints
