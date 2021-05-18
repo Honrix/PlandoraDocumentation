@@ -40,8 +40,9 @@ This Software Architecture Document describes the Plandora App architecture. Pla
 - [Android App Quality Guidelines](https://developer.android.com/docs/quality-guidelines)
 - [Material Design Guidelines](https://material.io/design)
 - [CodeFactor](https://www.codefactor.io/)
+
 ### 1.5 Overview
-tbd
+This Software Architecture Document contains the Architectural Representation, the Architectural Goals and Constraints, the Use-Case View, the Logical View, the Process View, the Deployment View, the Implementation View, the Data View, Size and Performance and Quality.
 
 ## 2. Architectural Representation
 In this project we apply the MVC Pattern which means there are three important components: Models, Views and Controllers. Generally speaking, models represent the logic and the state of objects, the view stands for the user interface whereas the controller is responsible for each manipulation of data.
