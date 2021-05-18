@@ -105,7 +105,7 @@ As we use Firestore, our database will be NoSQL. That means that any user and ev
 ![DB_Schema_json](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/SAD/DB_Schema_json.PNG)
 
 ## 10. Size and Performance
-tb
+tbd
 
 ## 11. Quality
 To capture our code quality and to find issues, we use the open source tool CodeFactor. This tool is capable of reviewing code in git repositories automatically.    
