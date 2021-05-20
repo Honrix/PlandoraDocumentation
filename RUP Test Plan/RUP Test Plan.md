@@ -212,6 +212,18 @@ The second purpose is to verify that the software operates correctly. Therefore,
 | Special Considerations | The Installation should be tested on multiple devices and emulators; several persons should test the Installation                                                                                                        |
 
 ##### 5.2.12.1 Test Scenarios
+- Sign Up with a new mail address.
+- Sign In with an existing account.
+- Create a new event, test different types of events.
+- Edit an existing event.
+- Invite attendee(s) to an existing event.
+- Add gift ideas to a new event.
+- Add gift ideas to an existing event.
+- Accept a received invitation (another user must add you as an attendee/invite you first).
+- Decline a received invitation (another user must add you as an attendee/invite you first).
+- Delete an existing event.
+- Delete an existing gift idea.
+- Delete an attendee of an existing event (you must be the owner of this event).
 
 ## 6.	Entry and Exit Criteria
 ### 6.1	Test Plan
