@@ -200,7 +200,18 @@ Instrumented Unit Tests
 **n/a**
 
 #### 5.2.12	Installation Testing
-**n/a**
+The Purpose of Installation Testing is to ensure that the software can be installed under different conditions (such as a new installation, an upgrade, ans a complete/custom installation).
+The second purpose is to verify that the software operates correctly. Therefore, the Test Scenarios should be run/followed.
+|                        |                                                                                              |
+|------------------------|----------------------------------------------------------------------------------------------|
+| Technique Objective    | Simulating UI interactions by a user                                                         |
+| Technique              | Installation Testing; Test Scenarios                                                         |
+| Oracles                | Interactions with the app, see Test Scenarios                                                |
+| Required Tools         | Device/Emulator                                                                              |
+| Success Criteria       | All tests pass without errors and the expected behaviour can be observed; no bugs are found  |
+| Special Considerations | The Installation should be tested on multiple devices and emulators; several persons should test the Installation                                                                                                        |
+
+##### 5.2.12.1 Test Scenarios
 
 ## 6.	Entry and Exit Criteria
 ### 6.1	Test Plan
