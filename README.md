@@ -1,6 +1,5 @@
 # PlandoraDocumentation
 
-
 ## What is Plandora?
 Have you ever forgotten the birthday of a good friend or even a family member? Unpleasant situation, right? Our vision is to prevent you from having this experience!
 Plandora, our Android app, helps you remember annual or one-time events and even assists you collecting great ideas for a gift or discussing them with friends.
