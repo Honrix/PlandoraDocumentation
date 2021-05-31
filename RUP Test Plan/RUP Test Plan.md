@@ -296,6 +296,11 @@ The following tools will be employed to support the test process for this Test P
 | Test Coverage Monitor	| [codecov](http://codecov.io/) |
 | CI/CD Service	| [Travis CI](https://travis-ci.org/) |
 | Metrics Tool | [codecov](http://codecov.io/) |
+| Code Metrics | [SonarCloud](https://sonarcloud.io/dashboard?id=nf3lix_Plandora)* |
+| Code Metrics | [Embold](https://embold.io/)* |
+| Code Metrics | [Codacy](https://app.codacy.com/gh/nf3lix/Plandora/dashboard?branch=master)|
+
+*These two Tools do not really show much potential for improvement in the Plandora Code, so Codacy is used as an alternative.
 
 ### 9.4	Test Environment Configurations
 n/a 
