@@ -319,10 +319,10 @@ n/a
 | Milestone | Planned Start Date | Actual Start Date | Planned End Date | Actual End Date |
 |---|---|---|---|---|
 | Run Cucumber Tests | 27.10.2020 | 27.10.2020 | 07.12.2020 | 01.12.2020   |
-| Having Unit Tests | 27.04.2021 | 29.04.2021   | 04.05.2021   | **tbd**   |
+| Having Unit Tests | 27.04.2021 | 29.04.2021   | 04.05.2021   | 04.05.2021   |
 | Having UI Tests | 27.04.2021 | 07.04.2021 | 04.05.2021 | 07.04.21 |
-| Having CI in Github | 27.04.2021 | **tbd** | 04.05.2021 | **tbd** |
-| 50% Unit Test Coverage | 04.05.2021 | **tbd** | 18.05.2021 | **tbd** |
+| Having CI in Github | 27.04.2021 | 28.04.2021 | 04.05.2021 | 28.04.2021 |
+| 50% Unit Test Coverage | 04.05.2021 | 04.05.2021 | 18.05.2021 | **tbd** |
 
 
 ## 12.	Risks, Dependencies, Assumptions, and Constraints
