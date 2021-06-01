@@ -329,7 +329,7 @@ n/a
 | Having CI in Github | 27.04.2021 | 28.04.2021 | 04.05.2021 | 28.04.2021 |
 | 50% Unit Test Coverage | 04.05.2021 | 04.05.2021 | 18.05.2021 | 01.06.2021* |
 
-*Due to the inability to test Activities with Unit Tests, currently the test coverage is at only 26% although the unit tests cover the classes that can be tested by unit testing.
+*Due to the inability to test Activities with Unit Tests, currently the test coverage is at only 26%, although the unit tests cover all the classes that can be tested by unit testing.
 
 
 ## 12.	Risks, Dependencies, Assumptions, and Constraints
