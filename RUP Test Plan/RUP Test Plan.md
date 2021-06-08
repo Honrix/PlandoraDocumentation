@@ -153,7 +153,7 @@ Unit Tests
 | Oracles                | User interacts with the app (for example enters valid data in a text field) |
 | Required Tools         | JUnit, Mockito                                                              |
 | Success Criteria       | All tests pass without errors and the expected behavior can be observed     |
-| Special Considerations |                                                                             |
+| Special Considerations | -                                                                            |
 
 Instrumented Unit Tests
 |                        |                                                                             |
@@ -163,7 +163,7 @@ Instrumented Unit Tests
 | Oracles                | Internal processes that depend on Android Framework APIs |
 | Required Tools         | Android JUnit Test Runner                                                   |
 | Success Criteria       | All tests pass without errors                                               |
-| Special Considerations |                                                                             |
+| Special Considerations | -                                                                            |
 
 #### 5.2.3 Business Cycle Testing
 **n/a**
