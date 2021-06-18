@@ -40,6 +40,7 @@ This Software Architecture Document describes the Plandora App architecture. Pla
 - [Android App Quality Guidelines](https://developer.android.com/docs/quality-guidelines)
 - [Material Design Guidelines](https://material.io/design)
 - [CodeFactor](https://www.codefactor.io/)
+- [Codacy](https://www.codacy.com/")
 
 ### 1.5 Overview
 This Software Architecture Document contains the Architectural Representation, the Architectural Goals and Constraints, the Use-Case View, the Logical View, the Process View, the Deployment View, the Implementation View, the Data View, Size and Performance and Quality.
