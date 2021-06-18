@@ -239,7 +239,8 @@ n/a
 n/a
 ### 7.6	Additional Work Products
 #### 7.6.1	Detailed Test Results
-
+The following screenshot shows the unit test results after running with Android Studio:
+![Unit Test Results](https://cdn.discordapp.com/attachments/760409169437130773/855362628646207528/unknown.png)
 
 #### 7.6.2	Additional Automated Functional Test Scripts
 The Test Scripts can be found [here](https://github.com/nf3lix/Plandora/tree/master/app/src/androidTest/java/com/plandora)
