@@ -245,7 +245,7 @@ The following screenshot shows the unit test results after running with Android 
 
 This screenshot shows the results of running the UI tests:
 
-![UI Test Results]()
+![UI Test Results](https://cdn.discordapp.com/attachments/760409169437130773/855364582600474654/unknown.png)
 
 This image shows the build and test process in our CI:
 
