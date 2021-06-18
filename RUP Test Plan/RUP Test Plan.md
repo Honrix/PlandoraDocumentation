@@ -33,14 +33,6 @@
         - [Configuration Testing](#5211configuration-testing)
         - [Installation Testing](#5212installation-testing)
 - [Entry and Exit Testing](#6entry-and-exit-criteria)
-    - [Test Plan](#61test-plan)
-        - [Test Plan Entry Criteria](#611test-plan-entry-criteria)
-        - [Test Plan Exit Criteria](#612test-plan-exit-criteria)
-        - [Suspension and Resumption Criteria](#613-suspension-and-resumption-criteria)
-    - [Test Cycles](#62test-cycles)
-        - [Test Cycle Entry Criteria](#621test-cycle-entry-criteria)
-        - [Test Cycle Exit Criteria](#622test-cycle-exit-criteria)
-        - [Test Cycle Abnormal Termination](#623-test-cycle-abnormal-termination)
 - [Deliverables](#7deliverables)
     - [Test Evaluation Summaries](#71test-evaluation-summaries)
     - [Reporting on Test Coverage](#72reporting-on-test-coverage)
@@ -226,14 +218,7 @@ The second purpose is to verify that the software operates correctly. Therefore,
 - Delete an attendee of an existing event (you must be the owner of this event).
 
 ## 6.	Entry and Exit Criteria
-### 6.1	Test Plan
-#### 6.1.1	Test Plan Entry Criteria
-#### 6.1.2	Test Plan Exit Criteria
-#### 6.1.3 Suspension and Resumption Criteria
-### 6.2	Test Cycles
-#### 6.2.1	Test Cycle Entry Criteria
-#### 6.2.2	Test Cycle Exit Criteria
-#### 6.2.3 Test Cycle Abnormal Termination
+- n/a
 
 ## 7.	Deliverables
 ### 7.1	Test Evaluation Summaries
