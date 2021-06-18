@@ -108,6 +108,7 @@ As we use Firestore, our database will be NoSQL. That means that any user and ev
 ## 10. Size and Performance
 
 Using the Android Profiler, the CPU, memory, network, and battery resources can be monitored.
+[Android Profiler](https://developer.android.com/studio/profile/android-profiler)
 
 ## 11. Quality
 To capture our code quality and to find issues, we use the tool [Codacy](https://www.codacy.com/"). This tool is capable of reviewing code in git repositories automatically. 
