@@ -250,7 +250,7 @@ This screenshot shows the results of running the UI tests:
 This image shows the build and test process in our CI:
 
 ![CI](https://cdn.discordapp.com/attachments/760409169437130773/855363883955126282/unknown.png)
-<img src="https://cdn.discordapp.com/attachments/760409169437130773/855363883955126282/unknown.png" style="width: 50%, height: 50%">
+<img src="https://cdn.discordapp.com/attachments/760409169437130773/855363883955126282/unknown.png" style="width: 841px, height: 426px">
 
 #### 7.6.2	Additional Automated Functional Test Scripts
 The Test Scripts can be found [here](https://github.com/nf3lix/Plandora/tree/master/app/src/androidTest/java/com/plandora)
