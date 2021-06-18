@@ -230,6 +230,7 @@ Plandora is using [Codecov.io](http://codecov.io//) for reporting our test cover
 
 ### 7.3	Perceived Quality Reports
 We are measuring our code quality with the help of Codacy. It checks for clean code and security or performance improvements. The following badge shows the quality of the code on the master branch:
+
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2235bc5f530c450683e2ee8183cd6eec)](https://app.codacy.com/gh/nf3lix/Plandora?utm_source=github.com&utm_medium=referral&utm_content=nf3lix/Plandora&utm_campaign=Badge_Grade_Settings)
 
 ### 7.4	Incident Logs and Change Requests
