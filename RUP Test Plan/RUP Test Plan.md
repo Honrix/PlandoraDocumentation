@@ -249,7 +249,6 @@ This screenshot shows the results of running the UI tests:
 
 This image shows the build and test process in our CI:
 
-![CI](https://cdn.discordapp.com/attachments/760409169437130773/855363883955126282/unknown.png)
 <img src="https://cdn.discordapp.com/attachments/760409169437130773/855363883955126282/unknown.png" width="50%" height="50%">
 
 #### 7.6.2	Additional Automated Functional Test Scripts
