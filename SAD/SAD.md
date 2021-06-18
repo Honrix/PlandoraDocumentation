@@ -108,6 +108,6 @@ As we use Firestore, our database will be NoSQL. That means that any user and ev
 tbd
 
 ## 11. Quality
-To capture our code quality and to find issues, we use the open source tool [Codacy](https://www.codacy.com/"). This tool is capable of reviewing code in git repositories automatically. 
+To capture our code quality and to find issues, we use the tool [Codacy](https://www.codacy.com/"). This tool is capable of reviewing code in git repositories automatically. 
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2235bc5f530c450683e2ee8183cd6eec)](https://app.codacy.com/gh/nf3lix/Plandora?utm_source=github.com&utm_medium=referral&utm_content=nf3lix/Plandora&utm_campaign=Badge_Grade_Settings)
