@@ -106,7 +106,7 @@ As we use Firestore, our database will be NoSQL. That means that any user and ev
 ![DB_Schema_json](https://raw.githubusercontent.com/Honrix/PlandoraDocumentation/main/SAD/DB_Schema_json.PNG)
 
 ## 10. Size and Performance
-
+The installed app has a size of 26MB, which is relatively small compared to other androis apps.
 Using the [Android Profiler](https://developer.android.com/studio/profile/android-profiler), the CPU, memory, network, and battery resources can be monitored.
 ![Android Profiler](https://cdn.discordapp.com/attachments/760409169437130773/855368517251629056/unknown.png)
 
