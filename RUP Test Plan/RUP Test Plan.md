@@ -218,7 +218,7 @@ The second purpose is to verify that the software operates correctly. Therefore,
 - Delete an attendee of an existing event (you must be the owner of this event).
 
 ## 6.	Entry and Exit Criteria
-- n/a
+**n/a**
 
 ## 7.	Deliverables
 ### 7.1	Test Evaluation Summaries
