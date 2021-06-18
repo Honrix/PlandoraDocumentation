@@ -138,7 +138,7 @@ n/a
 - Programming Language: [Kotlin](https://kotlinlang.org/)
 - Versioning: [Git/GitHub](https://github.com/nf3lix/Plandora)
 - Project Management: [YouTrack](https://dhbw-karlsruhe.myjetbrains.com/youtrack/agiles/108-76/109-465)
-- 
+
 ### 3.7 Online User Documentation and Help System Requirements
 tbd
 
