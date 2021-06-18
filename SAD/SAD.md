@@ -14,8 +14,6 @@
 - [6. Process View](#6-process-view)
 - [7. Deployment View](#7-deployment-view)
 - [8. Implementation View](#8-implementation-view)
-    - [8.1 Overiew](#81-overview)
-    - [8.2 Layers](#82-layers)
 - [9. Data View](#9-data-view)
 - [10. Size and Performance](#10-size-and-performance)
 - [11. Quality](#11-quality)
@@ -94,10 +92,6 @@ The app runs on the user's device and the backend is provided by an external ser
 
 
 ## 8. Implementation View
-### 8.1 Overview
-n/a
-
-### 8.2 Layers
 n/a
 
 ## 9. Data View
