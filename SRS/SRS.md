@@ -140,7 +140,7 @@ n/a
 - Project Management: [YouTrack](https://dhbw-karlsruhe.myjetbrains.com/youtrack/agiles/108-76/109-465)
 
 ### 3.7 Online User Documentation and Help System Requirements
-tbd
+[Installation Guide](https://plandora51897980.wordpress.com/2021/06/28/final-blog-post/)
 
 ### 3.8 Purchased Components
 This Project does not require any purchased components.
