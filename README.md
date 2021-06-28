@@ -15,3 +15,5 @@ There won’t be any missed birthdays, any disappointment or guilty feelings!
 [YouTrack Dashboard](https://dhbw-karlsruhe.myjetbrains.com/youtrack/agiles/108-76/109-278)
 
 [Our Code](https://github.com/nf3lix/Plandora)
+
+[Installation Guide](https://plandora51897980.wordpress.com/2021/06/27/installation-guide/)
